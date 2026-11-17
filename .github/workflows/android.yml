@@ -1,8 +1,13 @@
-name: Build APK
+name: Build & Release APK
 
 on:
   push:
+    branches: ["**"]
+    tags: ["v*"]
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -16,7 +21,27 @@ jobs:
       - uses: android-actions/setup-android@v3
       - name: Tests & APK
         run: ./gradlew testDebugUnitTest assembleRelease
+      - name: Rename APK
+        run: cp app/build/outputs/apk/release/app-release.apk "CarnetJapon-${GITHUB_REF_NAME//\//-}.apk"
       - uses: actions/upload-artifact@v4
         with:
           name: carnet-japon-apk
-          path: app/build/outputs/apk/release/*.apk
+          path: CarnetJapon-*.apk
+      - name: GitHub Release
+        if: startsWith(github.ref, 'refs/tags/v')
+        uses: softprops/action-gh-release@v2
+        with:
+          files: CarnetJapon-*.apk
+          name: Carnet Japon ${{ github.ref_name }}
+          body: |
+            Carnet de route Japon — Kyoto historique & Alpes japonaises (19 → 27 avril).
+
+            **Installation** : téléchargez `CarnetJapon-${{ github.ref_name }}.apk` sur le téléphone Android,
+            ouvrez-le et autorisez l'installation depuis cette source.
+
+            **Nouveautés v2.0**
+            - Carte vectorielle MapLibre + OpenFreeMap (sans clé), noms en français/latin avec le japonais.
+            - Cartes hors-ligne (~120 Mo) : menu ⋮ → Cartes hors-ligne, à faire en Wi-Fi avant le départ.
+            - Suivi en temps réel des 9 journées, coche automatique à l'arrivée, fiches historiques de 68 lieux.
+            - « Y aller » ouvre l'appli de navigation de votre choix (Vela Maps, Organic Maps, Google Maps…).
+            - Import de vos tracés GPX / KML / KMZ par jour.

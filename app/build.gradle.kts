@@ -16,11 +16,21 @@ android {
         ndk { abiFilters += listOf("arm64-v8a", "armeabi-v7a") }
     }
 
+    signingConfigs {
+        // Clé de publication versionnée dans le dépôt (choix assumé : app personnelle installée hors Play Store).
+        // Elle garantit que chaque nouvelle version s'installe par-dessus la précédente sans perdre la progression.
+        create("release") {
+            storeFile = rootProject.file("keystore/release.jks")
+            storePassword = "carnetjapon"
+            keyAlias = "carnetjapon"
+            keyPassword = "carnetjapon"
+        }
+    }
+
     buildTypes {
         release {
             isMinifyEnabled = false
-            // Signé avec la clé debug pour pouvoir installer l'APK directement.
-            signingConfig = signingConfigs.getByName("debug")
+            signingConfig = signingConfigs.getByName("release")
         }
     }
     compileOptions {
