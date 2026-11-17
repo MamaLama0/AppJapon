@@ -1,0 +1,2105 @@
+{
+ "title": "Carnet de route — Japon : Kyoto historique & Alpes japonaises",
+ "start": "2027-04-19",
+ "pois": [
+  {
+   "id": "kyoto_station",
+   "name": "Gare de Kyoto",
+   "ja": "京都駅",
+   "lat": 34.98535,
+   "lon": 135.758766,
+   "cat": "transport",
+   "imp": 1,
+   "radius": 250,
+   "region": "Kyoto",
+   "summary": "Porte d'entrée de Kyoto : un vaisseau de verre et d'acier face à mille ans d'histoire.",
+   "history": "La première gare de Kyoto ouvre en 1877, lorsque la ligne Kyoto–Kobe relie l'ancienne capitale impériale au port d'Osaka et de Kobe. C'est l'un des tout premiers chemins de fer du Japon, à peine cinq ans après la ligne pionnière Tokyo–Yokohama.\n\nLe bâtiment actuel, signé par l'architecte Hiroshi Hara, est inauguré en 1997 pour célébrer les 1 200 ans de la fondation de Heian-kyō (794), l'ancien nom de Kyoto. Son projet fit scandale : long de 470 mètres et haut de 60, il rompait brutalement avec le skyline bas de la ville. Hara l'a pensé comme une « porte » vers la cité historique, avec un immense atrium en gradins (171 marches) et une passerelle aérienne, le Skyway, d'où l'on embrasse la ville.\n\nEn face se dresse la Kyoto Tower (1964), phare de 131 mètres inspiré d'une bougie, longtemps critiquée elle aussi avant de devenir un repère familier.",
+   "tips": "Métro ligne Karasuma (direction Kokusaikaikan) jusqu'à Marutamachi : 6 min, 220 JPY. Consignes à bagages au sous-sol et côté Hachijō.",
+   "approx": false
+  },
+  {
+   "id": "hotel_kyoto",
+   "name": "Hébergement — Higashikatamachi 618",
+   "ja": "中京区東片町618",
+   "lat": 35.009262,
+   "lon": 135.762507,
+   "cat": "hotel",
+   "imp": 1,
+   "radius": 120,
+   "region": "Kyoto",
+   "summary": "Votre camp de base au cœur de Nakagyō, entre Marutamachi et Karasuma-Oike.",
+   "history": "Nakagyō (« l'arrondissement du centre ») occupe le cœur exact de Heian-kyō, la capitale fondée en 794 par l'empereur Kanmu. La ville fut tracée sur un plan en damier inspiré de Chang'an, la capitale chinoise des Tang : les rues est-ouest étaient numérotées (Nijō, Sanjō, Shijō… « deuxième, troisième, quatrième avenue ») et ce quadrillage structure encore aujourd'hui tout le centre.\n\nLe quartier fut pendant des siècles celui des marchands et artisans : on y voit encore des machiya, ces maisons de ville étroites et profondes (« lits d'anguille ») dont la façade sur rue servait de boutique. Oike-dōri, toute proche, fut élargie pendant la Seconde Guerre mondiale pour servir de coupe-feu en cas de bombardement, ce qui explique sa largeur inhabituelle.\n\nLes adresses japonaises ne suivent pas les rues : à Kyoto, on se repère traditionnellement par les croisements, avec agaru (« monter », vers le nord) et sagaru (« descendre », vers le sud).",
+   "tips": "Le sentō Hatsune-yu est à environ 3 minutes à pied. Stations les plus proches : Marutamachi et Karasuma-Oike (ligne Karasuma).",
+   "approx": false
+  },
+  {
+   "id": "marutamachi_stn",
+   "name": "Station Marutamachi",
+   "ja": "丸太町駅",
+   "lat": 35.016288,
+   "lon": 135.759553,
+   "cat": "transport",
+   "imp": 3,
+   "radius": 120,
+   "region": "Kyoto",
+   "summary": "Station de métro de la ligne Karasuma, au sud du Palais impérial.",
+   "history": "La ligne Karasuma, première ligne de métro de Kyoto, ouvre en 1981 sous l'avenue Karasuma, l'axe nord-sud qui traverse la ville. Les travaux furent longs : chaque coup de pelle dans le sous-sol de l'ancienne capitale mettait au jour des vestiges archéologiques qu'il fallait fouiller.\n\nMarutamachi signifie « la rue des rondins » : à l'époque Edo, on y vendait le bois de construction (maruta) acheminé par flottage depuis les montagnes du nord. Juste au nord de la station s'étend le parc du Palais impérial (Kyoto Gosho), résidence des empereurs jusqu'au transfert de la capitale à Tokyo en 1869.",
+   "tips": "Une comptine traditionnelle (« Maru Take Ebisu Oshi Oike… ») permet aux enfants de Kyoto de mémoriser l'ordre des rues est-ouest.",
+   "approx": false
+  },
+  {
+   "id": "kamogawa",
+   "name": "Berges de la Kamo-gawa (Sanjō Ōhashi)",
+   "ja": "鴨川・三条大橋",
+   "lat": 35.009,
+   "lon": 135.7718,
+   "cat": "nature",
+   "imp": 2,
+   "radius": 150,
+   "region": "Kyoto",
+   "summary": "La rivière qui structure Kyoto, et le pont où se terminait la grande route du Tōkaidō.",
+   "history": "La Kamo-gawa traverse Kyoto du nord au sud. Rivière sacrée liée aux sanctuaires Kamo, les plus anciens de la ville, elle fut aussi redoutée pour ses crues : l'empereur retiré Shirakawa (XIe–XIIe s.) disait que trois choses échappaient à sa volonté : les dés, les moines guerriers du mont Hiei… et les eaux de la Kamo.\n\nLe pont Sanjō Ōhashi marquait le point d'arrivée du Tōkaidō, la « route de la mer de l'Est » reliant Edo (Tokyo) à Kyoto par 53 relais, immortalisée par les estampes de Hiroshige. Toyotomi Hideyoshi le fit reconstruire en 1590 sur des piliers de pierre, dont certains subsistent. Plus au sud, sur les grèves de Shijō, la danseuse Izumo no Okuni aurait donné vers 1603 les premières représentations de ce qui deviendrait le kabuki.\n\nAujourd'hui, les Kyotoïtes s'assoient le soir sur les rives : on dit que les couples s'espacent avec une régularité si parfaite qu'on parle de la « loi de la Kamo-gawa ».",
+   "tips": "Trottinettes Luup : stationnement uniquement sur les ports dédiés de l'application.",
+   "approx": false
+  },
+  {
+   "id": "pontocho",
+   "name": "Ruelle de Pontochō",
+   "ja": "先斗町",
+   "lat": 35.0065,
+   "lon": 135.7712,
+   "cat": "quartier",
+   "imp": 1,
+   "radius": 150,
+   "region": "Kyoto",
+   "summary": "Ruelle pavée de 500 m éclairée de lanternes, l'un des cinq quartiers de geiko de Kyoto.",
+   "history": "Pontochō est une étroite ruelle d'environ 500 mètres coincée entre la Kamo-gawa et le canal Takase, de Sanjō à Shijō. Le terrain fut gagné sur le lit de la rivière lors de travaux d'endiguement à la fin du XVIIe siècle ; auberges et maisons de thé s'y installèrent rapidement pour accueillir bateliers et voyageurs.\n\nL'origine du nom reste discutée : on le rattache souvent au portugais ponto (« pointe »), souvenir des marchands et missionnaires du XVIe siècle, la ruelle formant une pointe de terre entre deux cours d'eau.\n\nPontochō est l'un des cinq hanamachi (« villes-fleurs ») de Kyoto où exercent geiko et maiko. Leur emblème, le pluvier (chidori), orne les lanternes. Depuis 1872, le quartier donne au printemps la Kamogawa Odori, spectacle de danse. De mai à septembre, les restaurants côté rivière dressent leurs terrasses sur pilotis, les kawayuka.",
+   "tips": "Photos des maiko : ne jamais les arrêter ni les suivre. Beaucoup de restaurants affichent « no photo » à l'entrée des ruelles privées.",
+   "approx": false
+  },
+  {
+   "id": "kawaramachi",
+   "name": "Kawaramachi & Shijō",
+   "ja": "河原町・四条",
+   "lat": 35.003763,
+   "lon": 135.769608,
+   "cat": "quartier",
+   "imp": 2,
+   "radius": 200,
+   "region": "Kyoto",
+   "summary": "Le carrefour commerçant et animé de Kyoto, avec ses galeries couvertes.",
+   "history": "Le croisement de Shijō et Kawaramachi est le cœur commerçant de la ville moderne. Kawaramachi signifie « la ville des grèves » : la rue suit l'ancien bord de la Kamo-gawa avant son endiguement.\n\nÀ l'ouest, les galeries couvertes de Teramachi (« la rue des temples ») et Shinkyōgoku rappellent la réorganisation de Kyoto par Toyotomi Hideyoshi à la fin du XVIe siècle : pour reconstruire une ville ravagée par les guerres civiles de l'ère Sengoku, il regroupa de nombreux temples le long de cette rue, qui forma la limite orientale de la cité.\n\nLe soir, ruelles et izakaya s'animent : c'est le quartier idéal pour un premier bol de ramen ou des gyoza.",
+   "tips": "Marché Nishiki à 5 minutes à l'ouest, accessible par les galeries couvertes.",
+   "approx": false
+  },
+  {
+   "id": "kiyomizudera",
+   "name": "Temple Kiyomizu-dera",
+   "ja": "清水寺",
+   "lat": 34.994303,
+   "lon": 135.784439,
+   "cat": "temple",
+   "imp": 1,
+   "radius": 200,
+   "region": "Kyoto",
+   "summary": "Le « temple de l'eau pure » et sa célèbre scène en bois suspendue au-dessus de la forêt.",
+   "history": "Selon la tradition, Kiyomizu-dera est fondé en 778 par le moine Enchin, guidé en rêve vers la source d'Otowa, au pied du mont du même nom. Le général Sakanoue no Tamuramaro, célèbre pour ses campagnes dans le nord du Japon, en devient le protecteur et y fait bâtir une salle dédiée à Kannon à onze visages et mille bras, divinité de la compassion.\n\nLe temple a brûlé à de nombreuses reprises. Les bâtiments actuels datent pour l'essentiel de 1633, reconstruits sur ordre du shogun Tokugawa Iemitsu. Le Hondō (pavillon principal, trésor national) est prolongé par la fameuse « scène » (butai) : une plate-forme de plancher de hinoki s'avançant à 13 mètres au-dessus du vide, portée par un échafaudage de piliers de zelkova assemblés sans un seul clou.\n\nL'expression japonaise « sauter de la scène de Kiyomizu » signifie prendre une décision audacieuse. À l'époque Edo, on croyait que survivre au saut exauçait un vœu : les archives du temple recensent plus de 230 sauts, avec un taux de survie étonnamment élevé, avant leur interdiction en 1872.\n\nSous la scène, la cascade d'Otowa se divise en trois filets d'eau : longévité, réussite et amour, selon la tradition — mais boire aux trois serait de la gourmandise ! Le temple est inscrit au patrimoine mondial de l'UNESCO depuis 1994 parmi les « Monuments historiques de l'ancienne Kyoto ».",
+   "tips": "Ouvre à 6h00. Billet ≈ 500 JPY. Arriver à l'aube = le temple presque pour vous seul et la lumière rasante sur la ville.",
+   "approx": false
+  },
+  {
+   "id": "sannenzaka",
+   "name": "Ruelle Sannenzaka",
+   "ja": "産寧坂（三年坂）",
+   "lat": 34.997529,
+   "lon": 135.781062,
+   "cat": "quartier",
+   "imp": 2,
+   "radius": 120,
+   "region": "Kyoto",
+   "summary": "Escaliers de pierre et maisons de bois préservées sur la descente de Kiyomizu.",
+   "history": "Sannenzaka est la pente pavée qui descend de Kiyomizu-dera vers le nord. Deux étymologies coexistent : « la pente de la troisième année » (elle aurait été aménagée en l'an 3 de l'ère Daidō, soit 808) ou « la pente de l'accouchement paisible » (産寧坂), car les femmes enceintes l'empruntaient pour prier Kannon pour une naissance heureuse.\n\nUne superstition veut que celui qui trébuche sur Sannenzaka mourra dans les trois ans. Les boutiques ont su en tirer parti : elles vendent des gourdes (hyōtan), réputées porte-bonheur, pour conjurer le mauvais sort.\n\nEn 1976, le secteur devient l'une des premières « zones de préservation de groupes de bâtiments traditionnels » du Japon. Façades de bois, auvents bas et enseignes sobres y sont protégés ; même les commerces modernes, comme le célèbre café installé dans une machiya, doivent se fondre dans le décor.",
+   "tips": "À 7h30 les boutiques sont fermées : c'est le moment idéal pour photographier les ruelles vides.",
+   "approx": false
+  },
+  {
+   "id": "ninenzaka",
+   "name": "Ruelle Ninenzaka",
+   "ja": "二寧坂（二年坂）",
+   "lat": 34.998448,
+   "lon": 135.78084,
+   "cat": "quartier",
+   "imp": 2,
+   "radius": 120,
+   "region": "Kyoto",
+   "summary": "La « petite sœur » de Sannenzaka, aux escaliers bordés de maisons de thé.",
+   "history": "Ninenzaka prolonge Sannenzaka vers le nord en direction du Kōdai-ji et de Gion. Son nom signifie « la pente de la deuxième année », par analogie avec sa voisine ; selon la tradition elle aurait été tracée un an plus tôt.\n\nComme Sannenzaka, elle fait partie du secteur protégé de Sannenzaka-Ninenzaka. Le peintre et poète Takehisa Yumeji, figure de l'art populaire de l'ère Taishō, vécut un temps dans l'une de ses maisons en 1917 avec sa compagne Kasai Hikono ; une plaque le rappelle.\n\nLa superstition des chutes s'applique aussi ici : sur Ninenzaka, trébucher porterait malheur pendant deux ans.",
+   "tips": "Au bas de Ninenzaka, prendre la ruelle Nene-no-michi vers le nord pour rejoindre Yasaka-jinja.",
+   "approx": false
+  },
+  {
+   "id": "yasaka",
+   "name": "Sanctuaire Yasaka-jinja",
+   "ja": "八坂神社",
+   "lat": 35.003603,
+   "lon": 135.778261,
+   "cat": "shrine",
+   "imp": 1,
+   "radius": 150,
+   "region": "Kyoto",
+   "summary": "Le sanctuaire de Gion, berceau du Gion Matsuri, l'une des plus grandes fêtes du Japon.",
+   "history": "Yasaka-jinja, que les habitants appellent affectueusement « Gion-san », aurait été fondé au VIIe siècle (656 selon la tradition). Il est dédié à Susanoo, dieu impétueux de la tempête, frère de la déesse solaire Amaterasu.\n\nPendant plus de mille ans, le sanctuaire mêla bouddhisme et shintō sous le nom de Gion-sha : Susanoo y était assimilé à Gozu Tennō, divinité protectrice contre les épidémies. En 869, alors qu'une épidémie ravageait la capitale, on dressa 66 hallebardes, une par province du Japon, pour apaiser les esprits : c'est l'origine du Gion Matsuri, qui anime toujours Kyoto chaque mois de juillet.\n\nEn 1868, le nouveau gouvernement Meiji imposa la séparation du bouddhisme et du shintō ; le sanctuaire prit alors le nom de Yasaka-jinja. Son pavillon principal, qui réunit sous un même toit le sanctuaire et la salle de culte selon un style unique dit Gion-zukuri, a été classé trésor national en 2020. La grande porte vermillon (Rōmon) ouvre sur Higashiyama-dōri, face à la rue Shijō.",
+   "tips": "Gratuit, ouvert 24 h/24. La scène de danse se couvre de centaines de lanternes offertes par les commerçants du quartier.",
+   "approx": false
+  },
+  {
+   "id": "gion",
+   "name": "Quartier de Gion (Hanamikōji)",
+   "ja": "祇園・花見小路",
+   "lat": 35.002654,
+   "lon": 135.774868,
+   "cat": "quartier",
+   "imp": 1,
+   "radius": 200,
+   "region": "Kyoto",
+   "summary": "Le plus célèbre quartier de geiko du Japon, aux maisons de thé à claies de bois.",
+   "history": "Gion est né comme un monzen-machi, un quartier « devant la porte » du sanctuaire Yasaka (alors Gion-sha) : on y servait thé et repas aux pèlerins. Au fil de l'époque Edo, ces maisons de thé (ochaya) devinrent des lieux de divertissement raffiné où officiaient les geiko (le nom des geisha à Kyoto) et leurs apprenties, les maiko.\n\nAu coin de Shijō et Hanamikōji, la maison de thé Ichiriki, aux murs rouge sombre, est liée à la légende des 47 rōnin : leur chef Ōishi Kuranosuke y aurait mené une vie de débauche simulée pour endormir la méfiance de ses ennemis avant la vengeance de 1703.\n\nHanamikōji elle-même est une rue de l'ère Meiji : elle fut ouverte sur des terrains confisqués au temple Kennin-ji. Ses façades à claies (inuyarai et kōshi) sont aujourd'hui protégées. Face à l'afflux de visiteurs, l'association du quartier interdit depuis 2024 l'accès des ruelles privées, sous peine d'amende.",
+   "tips": "Respecter les panneaux « rue privée » et ne jamais photographier les maiko de près.",
+   "approx": false
+  },
+  {
+   "id": "shorenin",
+   "name": "Temple Shōren-in",
+   "ja": "青蓮院",
+   "lat": 35.007601,
+   "lon": 135.7834,
+   "cat": "temple",
+   "imp": 2,
+   "radius": 120,
+   "region": "Kyoto",
+   "summary": "Temple de lignée impériale aux camphriers géants et aux jardins paisibles.",
+   "history": "Shōren-in est un monzeki, un temple dont les abbés étaient traditionnellement issus de la famille impériale ou de la haute noblesse. Il appartient à l'école bouddhique Tendai, dont le siège est le mont Hiei, tout proche : il est né d'un logis de moines de ce monastère, transféré à Kyoto au XIIe siècle.\n\nEn 1788, après qu'un grand incendie eut ravagé la ville et le Palais impérial, l'impératrice Go-Sakuramachi y établit sa résidence temporaire, d'où son surnom de « palais provisoire d'Awata ».\n\nÀ l'entrée, d'énormes camphriers (kusunoki), dont on dit que certains ont été plantés par Shinran, fondateur de l'école Jōdo Shinshū, étendent leurs branches tordues. Le temple conserve une peinture bouddhique majeure, le « Fudō bleu » (Ao Fudō), trésor national. Les jardins, attribués au peintre Sōami puis au maître de thé Kobori Enshū, se contemplent assis sur la galerie de bois.",
+   "tips": "Étape facultative (surlignée dans la synthèse). Ouvre à 9h00. Billet ≈ 600 JPY.",
+   "approx": false
+  },
+  {
+   "id": "kenninji",
+   "name": "Temple Kennin-ji",
+   "ja": "建仁寺",
+   "lat": 35.000257,
+   "lon": 135.773741,
+   "cat": "temple",
+   "imp": 1,
+   "radius": 150,
+   "region": "Kyoto",
+   "summary": "Le plus ancien temple zen de Kyoto et ses dragons jumeaux peints au plafond.",
+   "history": "Kennin-ji est fondé en 1202 par le moine Eisai (ou Yōsai), avec le soutien du shogun Minamoto no Yoriie. Revenu de Chine, Eisai y introduit l'école zen Rinzai… et le thé : son traité Kissa Yōjōki (« Boire du thé pour nourrir la vie ») en vante les vertus médicinales. Kennin-ji est ainsi le plus ancien temple zen de Kyoto et un berceau de la culture du thé au Japon.\n\nLe temple conserve le célèbre paravent Fūjin Raijin-zu (les dieux du Vent et du Tonnerre) de Tawaraya Sōtatsu (XVIIe s.), trésor national ; l'original est déposé au Musée national de Kyoto et une reproduction haute fidélité est exposée sur place.\n\nEn 2002, pour les 800 ans du temple, le peintre Koizumi Junsaku réalise au plafond de la salle de la Loi (Hattō) les « Dragons jumeaux » (Sōryū-zu), une œuvre monumentale d'environ 11 × 16 mètres. Ne manquez pas non plus le jardin Chōon-tei et le petit jardin ○△□, qui illustrerait les trois formes fondamentales de l'univers.",
+   "tips": "Ouvre à 10h00 (synthèse). Billet ≈ 800 JPY. Retirer ses chaussures à l'entrée.",
+   "approx": false
+  },
+  {
+   "id": "shirakawa",
+   "name": "Canal Shirakawa & pont Tatsumi",
+   "ja": "白川・巽橋",
+   "lat": 35.0053,
+   "lon": 135.7747,
+   "cat": "quartier",
+   "imp": 2,
+   "radius": 150,
+   "region": "Kyoto",
+   "summary": "Le canal bordé de saules et de maisons de thé, l'un des coins les plus photogéniques de Gion.",
+   "history": "Le Shirakawa, la « rivière blanche », doit son nom au sable de granite clair qu'elle charrie depuis les monts Higashiyama. Dans Gion, son cours est longé par la rue pavée de Shinbashi, bordée de maisons de thé à claies de bois ; le secteur est protégé depuis 1976.\n\nAu pont Tatsumi, le minuscule sanctuaire Tatsumi Daimyōjin est vénéré par les geiko et maiko, qui viennent y prier pour progresser dans leur art. Le long du canal, une stèle porte un poème de Yoshii Isamu (1886-1960), amoureux de Gion : « Quoi qu'on en dise, j'aime Gion — même endormi, l'eau coule sous mon oreiller. »\n\nAu printemps, cerisiers et saules pleureurs se reflètent dans l'eau ; les soirs d'hiver, les lanternes des ochaya s'allument une à une.",
+   "tips": "Balade intercalée entre Shōren-in et Kennin-ji (synthèse). Déjeuner vers 11h15 côté Kawaramachi.",
+   "approx": false
+  },
+  {
+   "id": "nanzenji",
+   "name": "Temple Nanzen-ji",
+   "ja": "南禅寺",
+   "lat": 35.011525,
+   "lon": 135.792721,
+   "cat": "temple",
+   "imp": 1,
+   "radius": 250,
+   "region": "Kyoto",
+   "summary": "Le premier temple zen fondé par un empereur, avec son immense porte Sanmon.",
+   "history": "Nanzen-ji occupe l'ancienne villa de l'empereur retiré Kameyama. Fervent du zen, il la transforme en temple en 1291 : c'est le premier temple zen de fondation impériale. Il fut placé au-dessus des « Cinq Montagnes » (Gozan), le système hiérarchique des grands monastères zen de Kyoto et Kamakura.\n\nLa monumentale porte Sanmon, haute de 22 mètres, date de 1628. Elle fut offerte par le seigneur Tōdō Takatora pour honorer les soldats tombés lors du siège du château d'Osaka (1615). Le kabuki y fait vivre la légende du voleur Ishikawa Goemon qui, juché au sommet, se serait exclamé « Zekkei kana ! » (« Quelle vue splendide ! ») devant Kyoto au printemps.\n\nLe jardin sec du Hōjō, attribué à Kobori Enshū, est surnommé « les jeunes tigres traversant l'eau » d'après la forme de ses rochers ; les cloisons coulissantes du bâtiment sont peintes par l'école Kanō.",
+   "tips": "Extérieurs et enceinte gratuits (synthèse : extérieur uniquement). Monter à la Sanmon est payant (≈ 600 JPY).",
+   "approx": false
+  },
+  {
+   "id": "suirokaku",
+   "name": "Aqueduc Suirokaku",
+   "ja": "水路閣",
+   "lat": 35.010594,
+   "lon": 135.793632,
+   "cat": "historic",
+   "imp": 1,
+   "radius": 120,
+   "region": "Kyoto",
+   "summary": "Un aqueduc « romain » en briques rouges au cœur d'un temple zen, symbole de la renaissance de Kyoto.",
+   "history": "Quand l'empereur part pour Tokyo en 1869, Kyoto perd son statut de capitale et voit fondre sa population et son économie. Pour relancer la ville, le gouverneur Kitagaki Kunimichi lance un projet colossal : amener l'eau du lac Biwa, de l'autre côté des montagnes, par un canal — le Biwako Sosui.\n\nLes travaux, commencés en 1885, sont confiés au jeune ingénieur Tanabe Sakurō, alors âgé d'une vingtaine d'années et tout juste diplômé. Le canal, achevé en 1890, fournit eau potable, irrigation et voie de transport ; il alimente surtout, à Keage, la première centrale hydroélectrique commerciale du Japon (1891), qui permet en 1895 la mise en service du premier tramway électrique du pays.\n\nL'aqueduc Suirokaku (1888), long d'environ 93 mètres, fait passer une branche du canal à travers l'enceinte de Nanzen-ji. Son style d'arches romaines en briques et granite suscita à l'époque une vive controverse : un ouvrage occidental dans un temple zen ! Il est aujourd'hui l'un des décors les plus aimés de Kyoto, et l'eau y coule toujours.",
+   "tips": "On peut monter derrière l'aqueduc et suivre le canal en hauteur jusqu'à l'incline de Keage.",
+   "approx": false
+  },
+  {
+   "id": "tetsugaku",
+   "name": "Chemin des Philosophes",
+   "ja": "哲学の道",
+   "lat": 35.020946,
+   "lon": 135.794076,
+   "cat": "nature",
+   "imp": 1,
+   "radius": 250,
+   "region": "Kyoto",
+   "summary": "Deux kilomètres de promenade le long d'un canal bordé de cerisiers, entre Nanzen-ji et Ginkaku-ji.",
+   "history": "Le Chemin des Philosophes (Tetsugaku-no-michi) longe sur près de 2 km un petit canal dérivé du canal du lac Biwa, du pont Nyakuōji au sud jusqu'aux abords du Ginkaku-ji au nord.\n\nIl doit son nom à Nishida Kitarō (1870-1945), figure majeure de l'« École de Kyoto », qui cherchait à concilier la pensée occidentale et le zen. Il y marchait chaque jour pour méditer en se rendant à l'université impériale de Kyoto.\n\nEn 1922, le peintre Hashimoto Kansetsu et son épouse firent don de plants de cerisiers qui bordent encore le canal ; on les appelle les « cerisiers de Kansetsu ». Le chemin a été retenu parmi les « 100 plus belles routes du Japon ». Fin avril, les floraisons tardives cèdent la place aux jeunes feuilles d'érable et aux azalées.",
+   "tips": "Remontée vers le nord, ≈ 30-40 min de marche sans arrêts. Nombreux petits cafés et sanctuaires de chats en chemin.",
+   "approx": false
+  },
+  {
+   "id": "honenin",
+   "name": "Temple Hōnen-in",
+   "ja": "法然院",
+   "lat": 35.023646,
+   "lon": 135.797361,
+   "cat": "temple",
+   "imp": 2,
+   "radius": 100,
+   "region": "Kyoto",
+   "summary": "Le temple secret au portail de chaume et aux tertres de sable blanc.",
+   "history": "Hōnen-in est lié à Hōnen (1133-1212), fondateur de l'école de la Terre Pure (Jōdo-shū), qui prêchait que la simple récitation du nom du Bouddha Amida (le nembutsu) suffisait au salut. Il pratiquait ici avec ses disciples Anraku et Jūren.\n\nEn 1206, deux dames de la cour de l'empereur retiré Go-Toba, Matsumushi et Suzumushi, se firent nonnes après avoir entendu les disciples prêcher. Furieux, l'empereur fit exécuter Anraku et Jūren et exila Hōnen. Le lieu tomba à l'abandon ; le temple actuel fut refondé en 1680.\n\nOn entre par un portail coiffé de chaume moussu, puis on passe entre deux tertres de sable blanc ratissé (byakusadan), dont les motifs changent avec les saisons : les traverser symbolise la purification du corps et de l'esprit. Le cimetière abrite la tombe de l'écrivain Tanizaki Jun'ichirō, auteur de L'Éloge de l'ombre.",
+   "tips": "Étape facultative (surlignée dans la synthèse). Enceinte gratuite ; ferme à 16h00.",
+   "approx": false
+  },
+  {
+   "id": "ginkakuji",
+   "name": "Ginkaku-ji — Pavillon d'Argent",
+   "ja": "慈照寺（銀閣寺）",
+   "lat": 35.0269,
+   "lon": 135.798371,
+   "cat": "temple",
+   "imp": 1,
+   "radius": 200,
+   "region": "Kyoto",
+   "summary": "La villa de retraite du shogun Ashikaga Yoshimasa, berceau de l'esthétique wabi-sabi.",
+   "history": "En 1482, le shogun Ashikaga Yoshimasa, las du pouvoir et d'un Japon déchiré par la guerre d'Ōnin (1467-1477), entreprend la construction d'une villa de retraite au pied des montagnes de l'est : le Higashiyama-dono. Il s'inspire du Pavillon d'Or édifié par son grand-père Yoshimitsu. À sa mort en 1490, la villa devient un temple zen, le Jishō-ji.\n\nContrairement à la légende, le pavillon n'a jamais été recouvert d'argent : le surnom de « Pavillon d'Argent » n'apparaît qu'à l'époque Edo, peut-être par opposition au Pavillon d'Or, ou en référence aux reflets de la lune sur son vernis sombre.\n\nAutour de Yoshimasa s'épanouit la « culture de Higashiyama » : cérémonie du thé, art floral, théâtre nō, peinture à l'encre — une esthétique de sobriété qui deviendra le wabi-sabi. Le Tōgu-dō abrite le Dōjinsai, la plus ancienne pièce de 4,5 tatamis du Japon, considérée comme le prototype des salons de thé. Le jardin associe une « mer de sable argenté » (Ginshadan) et un cône de sable tronqué (Kōgetsudai), ajoutés à l'époque Edo, à un superbe jardin de mousses.",
+   "tips": "Synthèse : passage en extérieur uniquement (le carnet prévoyait l'entrée à ≈ 500 JPY).",
+   "approx": false
+  },
+  {
+   "id": "inari_stn",
+   "name": "Gare JR Inari",
+   "ja": "稲荷駅",
+   "lat": 34.966743,
+   "lon": 135.770843,
+   "cat": "transport",
+   "imp": 3,
+   "radius": 120,
+   "region": "Kyoto",
+   "summary": "La petite gare face au grand torii de Fushimi Inari.",
+   "history": "La gare d'Inari, sur la ligne JR Nara, fait face à l'entrée monumentale du sanctuaire. Elle conserve une petite lampisterie en briques de l'époque Meiji, l'un des plus anciens bâtiments ferroviaires subsistant au Japon, témoin de la ligne Kyoto–Osaka (1877) dont le tracé passait alors par ici.\n\nAux abords de la gare et le long de l'allée du sanctuaire, les échoppes vendent les spécialités d'Inari : inari-zushi (riz vinaigré dans une poche de tofu frit, mets préféré des renards selon la tradition), brochettes et, autrefois, moineaux grillés.",
+   "tips": "Brunch street-food vers 9h15 aux abords de la gare (≈ 45 min).",
+   "approx": false
+  },
+  {
+   "id": "fushimi_inari",
+   "name": "Sanctuaire Fushimi Inari-taisha",
+   "ja": "伏見稲荷大社",
+   "lat": 34.967519,
+   "lon": 135.77971,
+   "cat": "shrine",
+   "imp": 1,
+   "radius": 300,
+   "region": "Kyoto",
+   "summary": "Des milliers de torii vermillon serpentant sur la montagne sacrée d'Inari.",
+   "history": "Fushimi Inari-taisha est le sanctuaire principal de quelque 30 000 sanctuaires dédiés à Inari à travers le Japon. Selon la tradition, il est fondé en 711 par le clan Hata, une famille d'origine continentale, sur les pentes du mont Inari.\n\nInari est la divinité du riz et des récoltes ; avec le développement du commerce à l'époque Edo, il devient le protecteur de la prospérité des affaires. Ses messagers sont les renards (kitsune), que l'on voit partout tenant dans la gueule une clé (celle du grenier à riz), un joyau, un épi ou un rouleau.\n\nLes fameux « mille torii » (senbon torii) sont des offrandes : depuis l'époque Edo, entreprises et particuliers offrent un portail en remerciement d'un vœu exaucé, leur nom et la date étant inscrits au dos. On en compte environ 10 000 le long des sentiers qui montent au sommet (233 m), sur une boucle d'environ 4 km. Le vermillon, obtenu à partir de cinabre, protégerait des mauvais esprits et préserve le bois.\n\nLa grande porte Rōmon aurait été offerte en 1589 par Toyotomi Hideyoshi en remerciement de la guérison de sa mère. Le pavillon principal date de 1499.",
+   "tips": "Gratuit, ouvert 24 h/24. Montée à l'aube = sentiers presque déserts. Compter ≈ 2h30 aller-retour jusqu'au sommet.",
+   "approx": false
+  },
+  {
+   "id": "araki",
+   "name": "Sanctuaire Araki-jinja",
+   "ja": "荒木神社",
+   "lat": 34.969443,
+   "lon": 135.776102,
+   "cat": "shrine",
+   "imp": 2,
+   "radius": 80,
+   "region": "Kyoto",
+   "summary": "Petit sanctuaire caché aux centaines de renards en terre cuite.",
+   "history": "Discret et souvent ignoré des foules, Araki-jinja fait partie de la constellation de petits sanctuaires qui entourent Fushimi Inari. On y vénère Kuchiire Inari, « l'Inari qui ouvre la porte » : le kami des bonnes intermédiations, invoqué pour trouver un emploi, un partenaire commercial… ou l'âme sœur.\n\nLes fidèles y laissent de petits renards en terre cuite, cousins des Fushimi ningyō, les poupées d'argile peinte de Fushimi. Cet artisanat, l'un des plus anciens de poupées du Japon, était déjà prisé des pèlerins de l'époque Edo, qui les rapportaient comme porte-bonheur de leur visite à Inari.",
+   "tips": "Gratuit (extérieur). On peut y acheter un petit renard sur lequel écrire son vœu.",
+   "approx": false
+  },
+  {
+   "id": "saga_arashiyama_stn",
+   "name": "Gare de Saga-Arashiyama",
+   "ja": "嵯峨嵐山駅",
+   "lat": 35.018779,
+   "lon": 135.681413,
+   "cat": "transport",
+   "imp": 3,
+   "radius": 120,
+   "region": "Kyoto",
+   "summary": "Porte d'entrée d'Arashiyama et de Sagano par la ligne JR Sagano.",
+   "history": "La ligne Sagano (ligne San'in) est ouverte en 1897 par la compagnie privée Kyoto Railway. Quand la voie principale fut doublée par un nouveau tracé en tunnels en 1989, l'ancienne section pittoresque le long des gorges de la Hozu fut reconvertie en train touristique, le Sagano Romantic Train, qui part de la gare voisine de Torokko-Saga.\n\nLe quartier de Saga était, dès l'époque Heian (IXe-XIIe s.), un lieu de villégiature de la cour impériale qui venait y admirer cerisiers et érables.",
+   "tips": "Depuis la gare : ≈ 15 min à pied vers la bambouseraie puis vers le nord.",
+   "approx": false
+  },
+  {
+   "id": "bamboo",
+   "name": "Bambouseraie d'Arashiyama",
+   "ja": "嵐山 竹林の小径",
+   "lat": 35.016796,
+   "lon": 135.671266,
+   "cat": "nature",
+   "imp": 1,
+   "radius": 200,
+   "region": "Kyoto",
+   "summary": "Le célèbre sentier entre des murs de bambous géants, au son du vent.",
+   "history": "Le sentier de la bambouseraie (Chikurin-no-komichi) serpente sur quelques centaines de mètres entre le temple Tenryū-ji, le sanctuaire Nonomiya et la villa Ōkōchi. Les bambous mōsō y forment une voûte verte de plus de 20 mètres de haut.\n\nLe sanctuaire Nonomiya, au bord du sentier, était le lieu où les princesses impériales désignées pour servir au grand sanctuaire d'Ise venaient se purifier avant leur départ — une scène célèbre du Dit du Genji (chapitre « L'arbre sacré »). Le temple voisin Tenryū-ji fut fondé en 1339 par le shogun Ashikaga Takauji pour apaiser l'esprit de l'empereur Go-Daigo, son ancien adversaire.\n\nLe murmure du vent dans les bambous a été retenu en 1996 parmi les « 100 paysages sonores du Japon » à préserver.",
+   "tips": "Étape facultative (« peut être à skip » dans la synthèse). Très fréquentée après 9h.",
+   "approx": false
+  },
+  {
+   "id": "toriimoto",
+   "name": "Rue préservée de Saga-Toriimoto",
+   "ja": "嵯峨鳥居本",
+   "lat": 35.02642,
+   "lon": 135.666806,
+   "cat": "quartier",
+   "imp": 2,
+   "radius": 250,
+   "region": "Kyoto",
+   "summary": "Village-rue de la route du mont Atago, entre maisons de ville et fermes au toit de chaume.",
+   "history": "Saga-Toriimoto s'est développé le long de la route de pèlerinage menant au mont Atago (924 m), au sommet duquel le sanctuaire Atago protège de l'incendie — à Kyoto, on trouve encore son talisman dans les cuisines. Le nom signifie « au pied du torii » : le grand torii marquant l'entrée du domaine sacré d'Atago se dresse en haut de la rue.\n\nLa rue présente deux visages : dans sa partie basse, des maisons de type machiya, de marchands ; dans sa partie haute, des fermes au toit de chaume. Au pied du torii, une maison de thé tenue depuis plusieurs siècles sert toujours le poisson ayu de la rivière.\n\nLe secteur est protégé depuis 1979 comme zone de préservation de bâtiments traditionnels. Une maison-musée y présente la vie d'autrefois.",
+   "tips": "Rue calme, idéale pour photographier sans foule.",
+   "approx": false
+  },
+  {
+   "id": "gioji",
+   "name": "Ermitage Giō-ji",
+   "ja": "祇王寺",
+   "lat": 35.023517,
+   "lon": 135.666801,
+   "cat": "temple",
+   "imp": 1,
+   "radius": 80,
+   "region": "Kyoto",
+   "summary": "Minuscule temple au tapis de mousse, lié à une histoire d'amour tragique du Dit des Heike.",
+   "history": "Giō-ji raconte l'une des plus poignantes histoires du Dit des Heike. Giō était une danseuse shirabyōshi, favorite de Taira no Kiyomori, l'homme le plus puissant du Japon au XIIe siècle. Lorsqu'une jeune rivale, Hotoke Gozen, vint danser devant lui, Kiyomori délaissa Giō pour elle.\n\nHumiliée, Giō, alors âgée de 21 ans, se retira ici avec sa sœur Ginyo et leur mère Toji pour devenir nonne. Peu après, Hotoke, consciente que son tour viendrait, renonça au monde à son tour et les rejoignit. Le temple conserve les statues de bois des quatre femmes et celle de Kiyomori.\n\nLe petit pavillon actuel date de 1895 : il fut offert par Kitagaki Kunimichi, l'ancien gouverneur de Kyoto à l'origine du canal du lac Biwa. Le jardin de mousse, ombragé par les érables, est l'un des plus beaux de Kyoto ; dans l'antichambre, une fenêtre ronde aux croisillons est surnommée la « fenêtre arc-en-ciel » pour les jeux de lumière qu'elle dessine.",
+   "tips": "Billet ≈ 300 JPY. Visite ≈ 35 min.",
+   "approx": false
+  },
+  {
+   "id": "adashino",
+   "name": "Temple Adashino Nenbutsu-ji",
+   "ja": "化野念仏寺",
+   "lat": 35.026916,
+   "lon": 135.664627,
+   "cat": "temple",
+   "imp": 1,
+   "radius": 100,
+   "region": "Kyoto",
+   "summary": "8 000 statuettes et stèles de pierre pour les morts anonymes, et une bambouseraie secrète.",
+   "history": "À l'époque Heian, Adashino était l'un des trois grands lieux où l'on abandonnait les corps des défunts, exposés aux éléments faute de sépulture. Le mot adashi évoque la fugacité. Le moine Yoshida Kenkō écrivait vers 1330 dans ses Heures oisives (Tsurezuregusa) : « Si la rosée d'Adashino ne s'évanouissait jamais (…), que les choses de ce monde seraient sans charme ! »\n\nSelon la tradition, le grand maître Kūkai fonda ici un temple au début du IXe siècle et inhuma les dépouilles abandonnées en érigeant des statues de pierre. Plus tard, Hōnen y fit pratiquer le nembutsu, la récitation du nom d'Amida, d'où le nom actuel.\n\nLes quelque 8 000 statuettes et stèles (sekibutsu) que l'on voit aujourd'hui furent rassemblées à la fin de l'ère Meiji à partir des tombes oubliées des environs. Leur disposition évoque le Sai-no-kawara, la rive des limbes où errent les âmes des enfants. Chaque fin août, la cérémonie Sentō Kuyō les illumine de milliers de bougies.\n\nDerrière le temple, un escalier grimpe à travers une bambouseraie dense et silencieuse, bien plus calme que celle d'Arashiyama.",
+   "tips": "Billet ≈ 500 JPY. Photos interdites dans l'enclos des statues.",
+   "approx": false
+  },
+  {
+   "id": "otagi",
+   "name": "Temple Otagi Nenbutsu-ji",
+   "ja": "愛宕念仏寺",
+   "lat": 35.03116,
+   "lon": 135.661234,
+   "cat": "temple",
+   "imp": 1,
+   "radius": 100,
+   "region": "Kyoto",
+   "summary": "1 200 statues de disciples en pierre aux visages rieurs, sculptées par des fidèles amateurs.",
+   "history": "Le temple aurait été fondé au VIIIe siècle par l'impératrice Shōtoku dans l'est de Kyoto, puis emporté par une crue de la Kamo-gawa et reconstruit à plusieurs reprises. Il est déplacé ici, au fond de la vallée de Saga, en 1922, mais tombe dans un profond délabrement, aggravé par un typhon en 1950.\n\nEn 1955, le sculpteur bouddhique Nishimura Kōchō en devient le supérieur et entreprend de le restaurer. En 1981, il lance un projet singulier : inviter des fidèles, la plupart amateurs, à sculpter eux-mêmes des statues de rakan (disciples du Bouddha) sous sa direction. En dix ans, 1 200 statues voient le jour.\n\nChacune a un visage unique : certains rient, boivent du saké, tiennent une raquette de tennis, un appareil photo ou serrent un chat. La mousse les recouvre peu à peu, donnant au lieu une atmosphère à la fois joyeuse et recueillie. Le pavillon principal, de l'époque Kamakura, est classé bien culturel important.",
+   "tips": "Billet ≈ 500 JPY. Sommet de la randonnée de Sagano.",
+   "approx": false
+  },
+  {
+   "id": "kinkakuji",
+   "name": "Kinkaku-ji — Pavillon d'Or",
+   "ja": "鹿苑寺（金閣寺）",
+   "lat": 35.039529,
+   "lon": 135.729537,
+   "cat": "temple",
+   "imp": 1,
+   "radius": 250,
+   "region": "Kyoto",
+   "summary": "Le pavillon couvert de feuilles d'or qui se mire dans l'étang, icône de Kyoto.",
+   "history": "En 1397, le shogun Ashikaga Yoshimitsu, au sommet de sa puissance, acquiert une villa dans les collines du nord de Kyoto et la transforme en une résidence somptueuse, le Kitayama-den. À sa mort en 1408, elle devient selon ses vœux un temple zen, le Rokuon-ji.\n\nLe pavillon combine trois styles architecturaux, un par étage : le rez-de-chaussée en style palatial de Heian (shinden), le premier étage en style des demeures de guerriers (buke), le dernier en style de temple zen chinois. Les deux étages supérieurs sont couverts de feuilles d'or, et un phénix de bronze couronne le toit.\n\nLe 2 juillet 1950, un jeune moine novice met le feu au pavillon, qui brûle entièrement. Ce drame inspirera à Mishima Yukio son roman Le Pavillon d'Or (1956). Reconstruit à l'identique en 1955, il est entièrement redoré en 1987 avec des feuilles cinq fois plus épaisses que les originales — environ 20 kg d'or. Il se reflète dans l'étang Kyōko-chi, l'« étang-miroir ».",
+   "tips": "Billet ≈ 500 JPY. Synthèse : taxi obligatoire depuis Otagi (≈ 20 min, ≈ 2 500 JPY).",
+   "approx": false
+  },
+  {
+   "id": "hirano",
+   "name": "Sanctuaire Hirano-jinja",
+   "ja": "平野神社",
+   "lat": 35.032379,
+   "lon": 135.732482,
+   "cat": "shrine",
+   "imp": 2,
+   "radius": 100,
+   "region": "Kyoto",
+   "summary": "Sanctuaire fondé avec la capitale en 794, célèbre pour ses dizaines de variétés de cerisiers.",
+   "history": "Hirano-jinja est fondé en 794, l'année même où l'empereur Kanmu installe la capitale à Heian-kyō : il y fait transférer des divinités vénérées par la famille de sa mère, Takano no Niigasa, dont la lignée remonte au royaume coréen de Baekje.\n\nSes pavillons, reconstruits au XVIIe siècle, adoptent un style unique dit Hirano-zukuri, où deux sanctuaires jumeaux partagent une même structure.\n\nMais Hirano est surtout célèbre pour ses cerisiers : environ 400 arbres de plusieurs dizaines de variétés, dont certaines propres au sanctuaire. Une fête des cerisiers y est célébrée depuis 985, sous l'empereur Kazan — l'une des plus anciennes du Japon. Grâce aux variétés tardives, des fleurs peuvent encore subsister fin avril.",
+   "tips": "Gratuit (extérieur). À deux pas de Kitano Tenmangū pour la « découverte libre ».",
+   "approx": false
+  },
+  {
+   "id": "kitano",
+   "name": "Sanctuaire Kitano Tenmangū",
+   "ja": "北野天満宮",
+   "lat": 35.030475,
+   "lon": 135.734918,
+   "cat": "shrine",
+   "imp": 2,
+   "radius": 150,
+   "region": "Kyoto",
+   "summary": "Le sanctuaire du dieu des études, idée pour la « découverte libre dans le coin ».",
+   "history": "Kitano Tenmangū est fondé en 947 pour apaiser l'esprit de Sugawara no Michizane (845-903), lettré et ministre exilé à Dazaifu sur de fausses accusations, où il mourut. Après sa mort, une série de calamités frappe la capitale, dont la foudre qui s'abat sur le Palais impérial en 930 : on y voit la colère de son esprit. Il est alors divinisé sous le nom de Tenjin, et devient le dieu des études et des lettres — les étudiants viennent toujours y prier avant leurs examens.\n\nMichizane étant né l'année du bœuf, des statues de bovins couchés parsèment l'enceinte : caresser leur tête rendrait intelligent. En 1587, Toyotomi Hideyoshi y organise le « Grand thé de Kitano », une cérémonie du thé géante ouverte à tous. Le pavillon principal, offert par son fils Hideyori en 1607, est un trésor national.\n\nJuste à l'est s'étend Kamishichiken, le plus ancien quartier de geiko de Kyoto.",
+   "tips": "Suggestion pour l'étape facultative « découverte libre ». Gratuit (extérieur).",
+   "approx": false
+  },
+  {
+   "id": "hatsuneyu",
+   "name": "Sentō Hatsune-yu",
+   "ja": "初音湯",
+   "lat": 35.012178,
+   "lon": 135.762313,
+   "cat": "onsen",
+   "imp": 2,
+   "radius": 80,
+   "region": "Kyoto",
+   "summary": "Bain public de quartier à 3 minutes du logement : bain chaud, sauna et bain froid.",
+   "history": "Les sentō, bains publics de quartier, se développent à l'époque Edo, quand la plupart des logements urbains n'ont pas de salle d'eau. Ils sont alors des lieux de sociabilité où l'on échange les nouvelles du quartier. Kyoto, avec ses maisons de bois serrées et le risque permanent d'incendie, comptait de très nombreux bains publics.\n\nAvec l'arrivée des salles de bain individuelles après la guerre, leur nombre s'est effondré. Beaucoup survivent aujourd'hui grâce à une nouvelle génération qui les rénove et y ajoute saunas et bains froids — la « totonou », cette sensation de plénitude après l'alternance chaud-froid, est devenue une mode au Japon.\n\nLe sentō n'est pas un onsen : l'eau n'est généralement pas une source thermale naturelle, mais le rituel est le même.",
+   "tips": "Bains non mixtes, sans maillot. Se laver entièrement assis à la douchette avant d'entrer dans le bain. Serviette hors de l'eau. Prévoir ≈ 500 JPY en monnaie.",
+   "approx": false
+  },
+  {
+   "id": "nijo",
+   "name": "Château de Nijō",
+   "ja": "二条城",
+   "lat": 35.014008,
+   "lon": 135.748537,
+   "cat": "castle",
+   "imp": 1,
+   "radius": 300,
+   "region": "Kyoto",
+   "summary": "Résidence des shoguns Tokugawa à Kyoto, aux célèbres « planchers rossignols ».",
+   "history": "Le château de Nijō est bâti à partir de 1603 par Tokugawa Ieyasu, tout juste nommé shogun, pour servir de résidence lors de ses séjours à Kyoto, où vivait l'empereur. Son petit-fils Iemitsu l'agrandit en 1626 pour y recevoir l'empereur Go-Mizunoo.\n\nLe palais Ninomaru, trésor national, déploie ses salles d'audience décorées de cloisons peintes par l'école Kanō (dont Kanō Tan'yū) : tigres, pins et aigles affirment la puissance du shogun. Ses couloirs sont célèbres pour leurs uguisubari, les « planchers rossignols », qui chantent sous les pas : le frottement des crampons métalliques sous les lattes produit un gazouillis. La tradition y voit une alarme contre les intrus.\n\nEn 1867, c'est dans le grand salon du Ninomaru que le dernier shogun, Tokugawa Yoshinobu, annonce aux seigneurs la restitution du pouvoir à l'empereur : fin de plus de 260 ans de shogunat Tokugawa. Le château devient ensuite palais impérial, avant d'être cédé à la ville en 1939. Il est inscrit au patrimoine mondial depuis 1994.",
+   "tips": "Billet complet (incluant le palais Ninomaru) ≈ 1 300 JPY. Ouvre à 8h45. Photos interdites dans le palais.",
+   "approx": false
+  },
+  {
+   "id": "takenobu",
+   "name": "Sanctuaire Takenobu Inari-jinja",
+   "ja": "武信稲荷神社",
+   "lat": 35.007585,
+   "lon": 135.746451,
+   "cat": "shrine",
+   "imp": 2,
+   "radius": 80,
+   "region": "Kyoto",
+   "summary": "Sanctuaire de quartier abritant un micocoulier sacré de plus de 800 ans.",
+   "history": "Ce paisible sanctuaire de quartier aurait été fondé en 859 par le ministre Fujiwara no Yoshimi. Il abrite un énorme micocoulier (enoki), arbre sacré estimé à environ 850 ans, ceint de la corde shimenawa qui signale la présence d'un kami.\n\nUne légende populaire le relie à Sakamoto Ryōma, héros de la fin du shogunat, et à son épouse Oryō : Ryōma aurait gravé sur le tronc le caractère « 龍 » (dragon, le premier de son prénom) pour lui faire savoir qu'il était passé. Le sanctuaire est depuis prié pour les rencontres et l'amour.\n\nÀ proximité se trouvait la prison de Rokkaku, où furent détenus plusieurs patriotes de la fin d'Edo.",
+   "tips": "Étape facultative (surlignée dans la synthèse). Gratuit (extérieur). ≈ 8 min à pied au sud de Nijō.",
+   "approx": false
+  },
+  {
+   "id": "nishiki",
+   "name": "Marché de Nishiki",
+   "ja": "錦市場",
+   "lat": 35.005024,
+   "lon": 135.76557,
+   "cat": "food",
+   "imp": 1,
+   "radius": 250,
+   "region": "Kyoto",
+   "summary": "« La cuisine de Kyoto » : 400 m de galerie couverte et plus d'une centaine d'échoppes.",
+   "history": "Le marché de Nishiki s'étire sur environ 400 mètres d'une rue étroite et couverte, entre Teramachi et Takakura. Son histoire commence au début du XIVe siècle, quand des marchands de poisson s'installent ici pour profiter d'une eau souterraine très froide, idéale pour conserver le poisson. En 1615, le shogunat lui accorde une licence officielle de marché aux poissons.\n\nLe peintre Itō Jakuchū (1716-1800), célèbre pour ses coqs et ses animaux d'un réalisme flamboyant, était le fils d'un grossiste en légumes du marché. Il joua un rôle clé pour défendre Nishiki lorsque les autorités menacèrent de le fermer.\n\nAujourd'hui surnommé « la cuisine de Kyoto », le marché compte plus d'une centaine de boutiques : légumes de Kyoto (kyō-yasai), pickles (tsukemono), omelette roulée (dashimaki), yuba, poissons grillés, couteaux… et les fameux tako tamago, petites pieuvres caramélisées farcies d'un œuf de caille.",
+   "tips": "Usage local : ne pas manger en marchant, consommer devant l'échoppe. Prévoir des espèces.",
+   "approx": false
+  },
+  {
+   "id": "sanjusangendo",
+   "name": "Temple Sanjūsangen-dō",
+   "ja": "三十三間堂（蓮華王院）",
+   "lat": 34.988172,
+   "lon": 135.771778,
+   "cat": "temple",
+   "imp": 1,
+   "radius": 200,
+   "region": "Kyoto",
+   "summary": "Le plus long bâtiment en bois du Japon et ses 1 001 statues dorées de Kannon.",
+   "history": "Officiellement nommé Rengeō-in, Sanjūsangen-dō est fondé en 1164 par Taira no Kiyomori pour l'empereur retiré Go-Shirakawa. Incendié en 1249, il est reconstruit en 1266 : c'est ce bâtiment que l'on visite aujourd'hui.\n\nLong d'environ 120 mètres, c'est le plus long bâtiment en bois du Japon. Son nom signifie « la salle aux 33 intervalles » : on compte 33 travées entre les piliers de la façade, un nombre symbolique car Kannon peut prendre 33 formes pour sauver les êtres.\n\nÀ l'intérieur s'alignent 1 001 statues de Kannon aux mille bras, en cyprès laqué et doré : 1 000 statues debout, en rangées, entourant une grande statue assise sculptée par le maître Tankei en 1254. Toutes sont classées trésor national depuis 2018. Devant elles veillent 28 divinités protectrices ainsi que les dieux du Vent et du Tonnerre, chefs-d'œuvre de la sculpture de Kamakura.\n\nÀ l'époque Edo, la longue véranda extérieure accueillait le tōshiya, un concours de tir à l'arc d'un bout à l'autre du bâtiment : en 1686, le samouraï Wasa Daihachirō y aurait réussi 8 133 flèches en 24 heures.",
+   "tips": "Billet ≈ 600 JPY. Photos interdites à l'intérieur. Chaussures retirées.",
+   "approx": false
+  },
+  {
+   "id": "nakatsugawa_stn",
+   "name": "Gare de Nakatsugawa",
+   "ja": "中津川駅",
+   "lat": 35.500617,
+   "lon": 137.502847,
+   "cat": "transport",
+   "imp": 2,
+   "radius": 250,
+   "region": "Nakasendō",
+   "summary": "Arrivée en train depuis Kyoto et récupération de la voiture de location.",
+   "history": "Nakatsugawa fut, à l'époque Edo, le 45e des 69 relais du Nakasendō, la route de l'intérieur reliant Edo (Tokyo) à Kyoto à travers les montagnes. Le relais vivait du passage des cortèges de seigneurs (daimyō) qui, selon le système du sankin-kōtai, devaient résider une année sur deux à Edo.\n\nLa ville est aujourd'hui la porte d'entrée de la vallée de Kiso et des villages-relais de Magome et Tsumago. Elle est célèbre pour son kuri-kinton, une douceur à base de châtaignes, spécialité d'automne.",
+   "tips": "Synthèse : départ de Kyoto à 15h00 (Shinkansen jusqu'à Nagoya puis ligne JR Chūō, ≈ 1h45 au total), récupération de la voiture vers 18h00.",
+   "approx": false
+  },
+  {
+   "id": "magome",
+   "name": "Magome-juku",
+   "ja": "馬籠宿",
+   "lat": 35.526549,
+   "lon": 137.567476,
+   "cat": "village",
+   "imp": 1,
+   "radius": 300,
+   "region": "Nakasendō",
+   "summary": "Village-relais du Nakasendō accroché à une pente pavée, patrie de l'écrivain Shimazaki Tōson.",
+   "history": "Magome est le 43e relais du Nakasendō et le plus méridional des onze relais de la vallée de Kiso (Kisoji). Le village s'étire le long d'une rue pavée en forte pente, bordée de maisons de bois, de moulins à eau et d'auberges. Le nom signifie « le panier à chevaux » : on y changeait les montures avant d'affronter le col.\n\nRavagé par des incendies en 1895 et 1915, Magome a été reconstruit en respectant son aspect d'antan. C'est la ville natale de Shimazaki Tōson (1872-1943), l'un des grands romanciers japonais, dont la fresque Avant l'aube (Yoake mae) raconte la Restauration Meiji vue depuis Magome, à travers la figure de son père, chef du relais. Un musée lui est consacré sur l'emplacement de la maison familiale (honjin).\n\nEn 2005, Magome a été rattaché administrativement de la préfecture de Nagano à celle de Gifu (ville de Nakatsugawa), un changement qui fit débat dans la région.",
+   "tips": "Départ de la randonnée vers 8h30. Service de transport des bagages entre Magome et Tsumago (saison touristique). Prévoir le retour à la voiture depuis Tsumago (bus ≈ 30 min ou taxi).",
+   "approx": false
+  },
+  {
+   "id": "nakasendo",
+   "name": "Col de Magome — Sentier du Nakasendō",
+   "ja": "馬籠峠・中山道",
+   "lat": 35.546,
+   "lon": 137.577,
+   "cat": "nature",
+   "imp": 1,
+   "radius": 400,
+   "region": "Nakasendō",
+   "approx": true,
+   "summary": "8 km sur l'ancienne voie pavée d'Edo, à travers forêts de cyprès, cascades et hameaux.",
+   "history": "Le Nakasendō (« route des montagnes centrales ») était l'une des cinq grandes routes de l'époque Edo. Longue d'environ 530 km, elle reliait Edo à Kyoto par l'intérieur, avec 69 relais. Plus longue que le Tōkaidō côtier, elle évitait les traversées de fleuves dangereuses ; elle était donc prisée des princesses : en 1861, le cortège de la princesse Kazu-no-miya, en route pour épouser le shogun Tokugawa Iemochi, aurait compté des dizaines de milliers de personnes.\n\nLe tronçon Magome–Tsumago (≈ 8 km) franchit le col de Magome (801 m). Il est l'un des mieux préservés : pavés d'origine, forêts de cyprès, et les cascades jumelles Odaki et Medaki (« la cascade mâle et la cascade femelle »), où le romancier Yoshikawa Eiji situe un épisode de l'entraînement du sabreur Miyamoto Musashi. À mi-chemin, la maison de thé de Tateba, une ancienne ferme, offre souvent thé et accueil aux marcheurs.",
+   "tips": "Cloches à ours installées le long du sentier : les faire sonner. Sens Magome → Tsumago = plus de descente. Position du col approximative."
+  },
+  {
+   "id": "tsumago",
+   "name": "Tsumago-juku",
+   "ja": "妻籠宿",
+   "lat": 35.576991,
+   "lon": 137.595421,
+   "cat": "village",
+   "imp": 1,
+   "radius": 300,
+   "region": "Nakasendō",
+   "summary": "Le village-relais pionnier de la préservation au Japon : ni câbles, ni enseignes modernes.",
+   "history": "Tsumago est le 42e relais du Nakasendō. Avec l'arrivée du chemin de fer, qui passa à l'écart au début du XXe siècle, le village tomba dans l'oubli et la pauvreté. Paradoxalement, c'est ce déclin qui l'a préservé.\n\nDans les années 1960, les habitants lancent l'un des tout premiers mouvements citoyens de préservation du patrimoine au Japon. En 1971, ils adoptent une charte en trois principes : « ne pas vendre, ne pas louer, ne pas détruire ». En 1976, Tsumago devient l'une des premières zones de préservation de groupes de bâtiments traditionnels du pays.\n\nLes câbles électriques sont dissimulés, les enseignes discrètes : on marche dans une rue d'Edo. On peut visiter le waki-honjin Okuya, auberge réservée aux hauts dignitaires, et le honjin reconstitué. Spécialités : soba (nouilles de sarrasin) et gohei mochi, galettes de riz pilé grillées sur brochette et nappées d'une sauce sucrée au miso, noix et sésame.",
+   "tips": "Déjeuner traditionnel à Tsumago. Retour à Magome pour récupérer la voiture : bus Nōhi ou taxi.",
+   "approx": false
+  },
+  {
+   "id": "tsukechi",
+   "name": "Gorges de Tsukechi",
+   "ja": "付知峡",
+   "lat": 35.7,
+   "lon": 137.445,
+   "cat": "nature",
+   "imp": 2,
+   "radius": 600,
+   "region": "Route 256 & 41",
+   "approx": true,
+   "summary": "Torrents aux eaux turquoise translucides et ponts suspendus au cœur des forêts de cyprès.",
+   "history": "La rivière Tsukechi descend des forêts d'Ura-Kiso, parmi les plus belles forêts de cyprès (hinoki) du Japon. Sa transparence est légendaire : on parle du « bleu de Tsukechi ».\n\nCes forêts ont une longue histoire : à l'époque Edo, le domaine d'Owari, qui contrôlait la région de Kiso, imposait une protection draconienne des cinq essences précieuses ; un dicton disait « un arbre, une tête » pour qui abattait illégalement un cyprès. Aujourd'hui encore, des arbres de ces forêts sont choisis comme « arbres sacrés » (goshinboku) pour la reconstruction rituelle, tous les vingt ans, du grand sanctuaire d'Ise.\n\nLe parc de Fudō offre une boucle courte entre cascades (dont la cascade Kannon), bassins émeraude et ponts suspendus.",
+   "tips": "Halte fraîcheur ≈ 20 min. Position approximative (secteur du parc Fudō)."
+  },
+  {
+   "id": "gero",
+   "name": "Gero Onsen",
+   "ja": "下呂温泉",
+   "lat": 35.807586,
+   "lon": 137.240877,
+   "cat": "onsen",
+   "imp": 1,
+   "radius": 500,
+   "region": "Route 256 & 41",
+   "summary": "L'une des « trois grandes sources thermales du Japon », avec bains de pieds gratuits en bord de rivière.",
+   "history": "Au XVIIe siècle, le lettré confucéen Hayashi Razan classe Gero parmi les trois sources thermales les plus remarquables du Japon, aux côtés d'Arima et de Kusatsu.\n\nSelon la légende, la source, connue depuis le Xe siècle, se tarit après un séisme au XIIIe siècle. Un héron blanc (shirasagi) vint alors se poser chaque jour sur la rive de la rivière Hida ; les villageois y découvrirent une nouvelle source jaillissante. Le héron était, dit-on, une incarnation du bouddha guérisseur Yakushi, vénéré depuis au temple Onsen-ji qui domine la ville.\n\nL'eau, alcaline et douce, laisse une peau lisse : on la surnomme « eau de beauté ». La ville compte de nombreux bains de pieds publics gratuits (ashiyu) le long de la rivière.",
+   "tips": "Gardez une petite serviette dans la voiture pour les bains de pieds.",
+   "approx": false
+  },
+  {
+   "id": "hidakyo",
+   "name": "Gorges de la rivière Hida (Route 41)",
+   "ja": "飛騨川",
+   "lat": 35.870528,
+   "lon": 137.211258,
+   "cat": "nature",
+   "imp": 2,
+   "radius": 800,
+   "region": "Route 256 & 41",
+   "approx": true,
+   "summary": "Formations rocheuses sculptées par le courant le long de la route panoramique 41.",
+   "history": "La rivière Hida prend sa source sur les pentes du mont Norikura et coule vers le sud sur environ 150 km avant de rejoindre la Kiso. La Route 41, qui la longe entre Gero et Takayama, était autrefois le « chemin de Hida », l'artère reliant cette région montagneuse et isolée au reste du Japon.\n\nLa région de Hida est célèbre depuis l'Antiquité pour ses charpentiers, les Hida no takumi. Pauvre en riz, la province payait son impôt en travail : chaque année, des artisans étaient envoyés construire temples et palais des capitales de Nara et Kyoto. Leur savoir-faire se retrouve dans les maisons de Takayama et Furukawa.\n\nLe long du parcours, le courant a sculpté gorges, marmites de géant et roches stratifiées.",
+   "tips": "Parcours panoramique ; s'arrêter uniquement sur les aires prévues. Position indicative."
+  },
+  {
+   "id": "takayama",
+   "name": "Hébergement — Takayama (camp de base)",
+   "ja": "高山",
+   "lat": 36.1406,
+   "lon": 137.2519,
+   "cat": "hotel",
+   "imp": 1,
+   "radius": 250,
+   "region": "Takayama",
+   "approx": true,
+   "summary": "Trois nuits dans le « petit Kyoto » des Alpes, capitale historique de la province de Hida.",
+   "history": "Takayama se développe à partir de 1586, lorsque le seigneur Kanamori Nagachika, général de Toyotomi Hideyoshi, reçoit la province de Hida et bâtit un château sur la colline qui domine la ville. Il trace une ville-château sur le modèle de Kyoto, d'où son surnom de « petit Kyoto ».\n\nEn 1692, le shogunat Tokugawa reprend directement la province, convoitée pour ses forêts et ses mines : le château est démantelé et la région est administrée depuis le Takayama Jinya, le seul bâtiment de gouvernement local de l'époque Edo subsistant au Japon.\n\nIsolée par les montagnes, Takayama a conservé ses quartiers marchands, ses brasseries et ses festivals : le Takayama Matsuri, au printemps (mi-avril) et à l'automne, avec ses chars richement sculptés par les artisans de Hida, est l'un des plus beaux du Japon.",
+   "tips": "Position réglée sur la gare de Takayama : l'adresse de l'hébergement n'est pas indiquée dans le carnet."
+  },
+  {
+   "id": "sanmachi",
+   "name": "Sanmachi Suji — Vieux Takayama",
+   "ja": "さんまち通り",
+   "lat": 36.142358,
+   "lon": 137.259248,
+   "cat": "quartier",
+   "imp": 1,
+   "radius": 250,
+   "region": "Takayama",
+   "summary": "Trois ruelles de maisons marchandes en bois sombre et de brasseries de saké séculaires.",
+   "history": "Sanmachi Suji désigne les trois rues parallèles (Ichi-no-machi, Ni-no-machi, San-no-machi) du quartier marchand de la ville-château. Les maisons de bois sombre, aux façades à claies et aux avant-toits bas, datent pour la plupart de la fin de l'époque Edo et de l'ère Meiji, beaucoup ayant été reconstruites après un grand incendie au XIXe siècle. Le secteur est protégé depuis 1979.\n\nLes marchands de Takayama s'enrichirent grâce au bois, à la soie et au saké. Les maisons Kusakabe et Yoshijima, ouvertes à la visite, montrent le raffinement de leurs charpentes.\n\nLes brasseries de saké se reconnaissent aux sugidama, grosses boules d'aiguilles de cèdre suspendues au-dessus de leur porte : vertes, elles annoncent le saké nouveau de l'hiver ; en brunissant, elles signalent que le saké a mûri. Beaucoup proposent des dégustations dans de petites coupes.",
+   "tips": "Le soir : bœuf de Hida, souvent servi en hoba miso, grillé sur une feuille de magnolia avec du miso.",
+   "approx": false
+  },
+  {
+   "id": "shiroyama_obs",
+   "name": "Belvédère de Shiroyama (Ogimachi)",
+   "ja": "荻町城跡展望台",
+   "lat": 36.262954,
+   "lon": 136.907963,
+   "cat": "viewpoint",
+   "imp": 1,
+   "radius": 200,
+   "region": "Shirakawa-gō & Gokayama",
+   "summary": "La vue « carte postale » sur les fermes au toit de chaume de Shirakawa-gō.",
+   "history": "Le belvédère occupe l'emplacement de l'ancien château d'Ogimachi, une petite forteresse de montagne du XVe-XVIe siècle. Il offre la vue la plus célèbre sur Ogimachi, le principal village de Shirakawa-gō, et ses dizaines de fermes gasshō-zukuri.\n\nGasshō-zukuri signifie « construit comme des mains jointes en prière » : les toits de chaume, pentus d'environ 60°, permettent d'évacuer les énormes chutes de neige de la région. La charpente est assemblée sans clous, liée par des cordes et des branches souples. Les vastes combles servaient à l'élevage des vers à soie, principale ressource de ces vallées isolées.\n\nLe chaume est renouvelé tous les 30 à 40 ans lors de grands chantiers collectifs fondés sur l'entraide villageoise, le yui. En 1995, les villages de Shirakawa-gō et de Gokayama ont été inscrits ensemble au patrimoine mondial de l'UNESCO.",
+   "tips": "Arrêt photo. Le matin, la lumière éclaire le village de face.",
+   "approx": false
+  },
+  {
+   "id": "ainokura",
+   "name": "Hameau d'Ainokura (Gokayama)",
+   "ja": "相倉",
+   "lat": 36.430688,
+   "lon": 136.914051,
+   "cat": "village",
+   "imp": 1,
+   "radius": 300,
+   "region": "Shirakawa-gō & Gokayama",
+   "summary": "Village authentique de fermes au toit de chaume, toujours habité, au creux des montagnes.",
+   "history": "Ainokura est l'un des deux villages de Gokayama inscrits au patrimoine mondial. Une vingtaine de maisons gasshō-zukuri, dont certaines vieilles de plusieurs siècles, s'y dressent au milieu des rizières en terrasses, adossées à une forêt de cèdres protégeant le village des avalanches.\n\nGokayama, littéralement « les cinq montagnes », est une région si isolée qu'une légende y fait trouver refuge aux survivants du clan Taira après leur défaite face aux Minamoto en 1185. À l'époque Edo, elle dépendait du puissant domaine de Kaga, pour lequel elle produisait en secret du salpêtre — indispensable à la poudre à canon — à partir d'un mélange de terre, d'herbes et d'excréments de vers à soie fermenté sous les planchers. Elle produisait aussi du papier washi.\n\nC'est à Gokayama qu'est né le Kokiriko-bushi, considéré comme l'un des plus anciens chants populaires du Japon, accompagné de claquettes de bois.",
+   "tips": "Parking payant à l'entrée ; village habité : rester sur les chemins.",
+   "approx": false
+  },
+  {
+   "id": "suganuma",
+   "name": "Hameau de Suganuma (Gokayama)",
+   "ja": "菅沼",
+   "lat": 36.399578,
+   "lon": 136.886868,
+   "cat": "village",
+   "imp": 1,
+   "radius": 250,
+   "region": "Shirakawa-gō & Gokayama",
+   "summary": "Neuf fermes au toit de chaume nichées dans une boucle de la rivière Shō.",
+   "history": "Suganuma est un minuscule hameau de neuf maisons gasshō-zukuri blotti dans une boucle de la rivière Shō, entre la falaise et l'eau. Pendant des siècles, son isolement fut total : on ne franchissait la rivière qu'au moyen d'un panier suspendu à une corde (kago no watashi). Le domaine de Kaga utilisait d'ailleurs Gokayama comme lieu d'exil pour certains condamnés, que la rivière suffisait à retenir.\n\nDeux petits musées y présentent la vie rurale et la fabrication du salpêtre, qui fit la richesse discrète de la région. Plus intime encore qu'Ainokura, Suganuma est le plus préservé du tourisme de masse.",
+   "tips": "Accès depuis le parking par un ascenseur et un tunnel piéton.",
+   "approx": false
+  },
+  {
+   "id": "gujo_castle",
+   "name": "Château de Gujō Hachiman",
+   "ja": "郡上八幡城",
+   "lat": 35.753083,
+   "lon": 136.961445,
+   "cat": "castle",
+   "imp": 1,
+   "radius": 200,
+   "region": "Gujō Hachiman",
+   "summary": "Donjon de bois perché sur sa colline, dominant la « cité de l'eau ».",
+   "history": "Le château est fondé en 1559 par le seigneur Endō Morikazu, au sommet du mont Hachiman. Plusieurs familles s'y succèdent pendant l'époque Edo. Comme la plupart des châteaux japonais, il est démantelé en 1870 au début de l'ère Meiji.\n\nLe donjon actuel est reconstruit en 1933, en bois, sur le modèle de celui d'Ōgaki : c'est l'un des plus anciens donjons reconstruits en bois du Japon. Une légende locale raconte qu'une jeune fille nommée Oyoshi aurait été sacrifiée comme « pilier humain » (hitobashira) lors de travaux de reconstruction du château ; un petit sanctuaire lui rend hommage.\n\nGujō Hachiman est aussi célèbre pour le Gujō Odori, une danse populaire vieille de plus de 400 ans qui anime la ville plus de trente soirs chaque été, dont quatre nuits entières à la mi-août.",
+   "tips": "Montée raide en voiture ou à pied. Par les matins d'automne, le château semble flotter sur une mer de nuages.",
+   "approx": false
+  },
+  {
+   "id": "sogisui",
+   "name": "Source Sōgisui",
+   "ja": "宗祇水",
+   "lat": 35.749989,
+   "lon": 136.956218,
+   "cat": "historic",
+   "imp": 2,
+   "radius": 80,
+   "region": "Gujō Hachiman",
+   "summary": "La source qui ouvre la liste des « 100 eaux remarquables du Japon ».",
+   "history": "Cette source jaillissant au bord de la rivière Kodara porte le nom de Iio Sōgi (1421-1502), le plus grand maître de la poésie enchaînée (renga) de son temps. Selon la tradition, il séjourna à Gujō pour étudier auprès du seigneur Tō no Tsuneyori, détenteur de la transmission secrète de l'interprétation du Kokinshū, et ils échangèrent des poèmes d'adieu au bord de cette source.\n\nEn 1985, le ministère de l'Environnement l'a placée en tête de sa sélection des « 100 eaux remarquables du Japon ». Son usage obéit à une règle ancestrale : on puise l'eau de boisson en amont, puis l'eau sert au lavage des légumes, enfin à celui de la vaisselle, en aval.",
+   "tips": "Ruelle Yanaka Mizu-no-Komichi juste à côté.",
+   "approx": false
+  },
+  {
+   "id": "yanaka",
+   "name": "Ruelle Yanaka Mizu-no-Komichi",
+   "ja": "やなか水のこみち",
+   "lat": 35.748674,
+   "lon": 136.957169,
+   "cat": "quartier",
+   "imp": 2,
+   "radius": 100,
+   "region": "Gujō Hachiman",
+   "summary": "Ruelle pavée de galets de rivière, bordée de canaux d'eau cristalline.",
+   "history": "Gujō Hachiman est surnommée la « cité de l'eau ». Au confluent des rivières Yoshida et Kodara, la ville est sillonnée de canaux, d'abord aménagés à l'époque Edo pour lutter contre les incendies, puis utilisés par les habitants pour la vie quotidienne : les maisons disposent encore de bassins à plusieurs niveaux (mizubune) où l'on rince légumes et vaisselle, et où des carpes nettoient les restes.\n\nLa ruelle Yanaka Mizu-no-Komichi, pavée de galets ronds polis par la rivière, longe l'un de ces canaux limpides. C'est l'un des coins les plus paisibles et photogéniques de la ville.",
+   "tips": "Flânerie de 10-15 min entre Sōgisui et le centre.",
+   "approx": false
+  },
+  {
+   "id": "iwasaki",
+   "name": "Sample Village Iwasaki",
+   "ja": "サンプルヴィレッジ・いわさき",
+   "lat": 35.749251,
+   "lon": 136.957513,
+   "cat": "food",
+   "imp": 2,
+   "radius": 100,
+   "region": "Gujō Hachiman",
+   "summary": "Atelier ludique de fabrication des fausses nourritures (sampuru) des vitrines de restaurants.",
+   "history": "Les sampuru, ces répliques ultra-réalistes de plats en cire puis en résine exposées dans les vitrines des restaurants japonais, sont apparues dans les années 1920. Leur essor est lié à Iwasaki Takizō (1895-1965), natif de Gujō Hachiman, qui fonde en 1932 à Osaka une entreprise de fabrication. Son histoire la plus connue : il aurait mis au point sa technique en reproduisant une omelette en cire pour sa femme.\n\nGujō Hachiman est depuis restée la capitale de cet artisanat : une grande partie des sampuru du Japon y est fabriquée. Les ateliers proposent de s'initier à la fabrication de tempura ou de laitue en cire, un spectacle étonnant où la cire chaude versée dans l'eau prend en quelques secondes la forme d'une feuille.",
+   "tips": "Atelier sur réservation conseillée. Position approximative du quartier des ateliers.",
+   "approx": true
+  },
+  {
+   "id": "otaki_cave",
+   "name": "Grottes d'Ōtaki & Jōmon",
+   "ja": "大滝鍾乳洞・縄文鍾乳洞",
+   "lat": 35.733745,
+   "lon": 136.980337,
+   "cat": "nature",
+   "imp": 2,
+   "radius": 250,
+   "region": "Seseragi Kaidō",
+   "summary": "Grottes calcaires fraîches, ornées de stalactites et d'une cascade souterraine.",
+   "history": "Le massif calcaire de la région de Gujō, formé de sédiments marins vieux de centaines de millions d'années, est creusé de nombreuses grottes. La grotte d'Ōtaki (« grande cascade »), mise au jour en 1970, est la plus spectaculaire : un parcours aménagé entre stalactites et stalagmites mène à une cascade souterraine d'une trentaine de mètres.\n\nLa grotte voisine de Jōmon tient son nom des objets de l'époque Jōmon (période préhistorique japonaise, avant le IIIe siècle av. J.-C.) découverts à proximité. La température y reste fraîche toute l'année, autour de 13 °C.",
+   "tips": "Visite ≈ 30 min. Prévoir une petite laine et des chaussures qui accrochent.",
+   "approx": false
+  },
+  {
+   "id": "meiho",
+   "name": "Michi-no-Eki Meihō",
+   "ja": "道の駅 明宝",
+   "lat": 35.87,
+   "lon": 137.04,
+   "cat": "food",
+   "imp": 2,
+   "radius": 300,
+   "region": "Seseragi Kaidō",
+   "approx": true,
+   "summary": "Aire de terroir réputée pour son jambon artisanal Meihō Ham et ses glaces locales.",
+   "history": "Les michi-no-eki (« gares de la route ») sont des aires routières créées à partir de 1993 au Japon pour offrir aux automobilistes repos, toilettes et produits locaux, tout en soutenant les économies rurales. On en compte aujourd'hui plus de 1 200.\n\nCelle de Meihō est célèbre pour le Meihō Ham, un jambon de porc artisanal né dans les années 1950 d'une initiative coopérative du village pour valoriser l'élevage local. Il devint un produit culte au Japon dans les années 1980. On le déguste ici grillé sur place, en brochette.",
+   "tips": "Pause déjeuner conseillée. Position approximative."
+  },
+  {
+   "id": "hachiman_jinja",
+   "name": "Sanctuaire Hachiman (Seseragi Kaidō)",
+   "ja": "八幡神社",
+   "lat": 35.93,
+   "lon": 137.06,
+   "cat": "shrine",
+   "imp": 3,
+   "radius": 300,
+   "region": "Seseragi Kaidō",
+   "approx": true,
+   "summary": "Sanctuaire forestier sous des cèdres géants au bord d'un torrent de montagne.",
+   "history": "Hachiman est l'une des divinités les plus vénérées du Japon : on compte des dizaines de milliers de sanctuaires Hachiman. Identifié à l'empereur légendaire Ōjin, il fut d'abord le dieu de l'agriculture et de la pêche, puis devint le protecteur des guerriers, en particulier du clan Minamoto.\n\nDans les vallées de montagne, ces sanctuaires de village sont entourés d'un chinju no mori, une « forêt protectrice » sacrée jamais exploitée, ce qui explique la présence de cèdres (sugi) gigantesques, souvent plusieurs fois centenaires.",
+   "tips": "Position très approximative : le carnet ne précise pas quel sanctuaire. À repérer sur la route."
+  },
+  {
+   "id": "nishiure",
+   "name": "Col de Nishiure (1 113 m)",
+   "ja": "西ウレ峠",
+   "lat": 36.026118,
+   "lon": 137.071029,
+   "cat": "viewpoint",
+   "imp": 2,
+   "radius": 300,
+   "region": "Seseragi Kaidō",
+   "summary": "Point culminant de la route Seseragi Kaidō, belvédère sur la haute forêt.",
+   "history": "La Seseragi Kaidō, « la route du murmure des ruisseaux » (route nationale 472), relie Gujō Hachiman à Takayama sur environ 60 km, en suivant des torrents de montagne à travers forêts de feuillus et de mélèzes.\n\nÀ 1 113 mètres, le col de Nishiure en est le point culminant. Il marque une ligne de partage des eaux : au sud, les torrents rejoignent la rivière Nagara et le Pacifique ; au nord, ils descendent vers la mer du Japon. Au printemps, la neige peut encore border la route.",
+   "tips": "Route sinueuse : prudence, possibles plaques de neige fin avril.",
+   "approx": false
+  },
+  {
+   "id": "shokawa",
+   "name": "Moulins à eau de Shōkawa (Hida Shōkawa no Sato)",
+   "ja": "飛騨荘川の里",
+   "lat": 36.035409,
+   "lon": 136.953048,
+   "cat": "village",
+   "imp": 2,
+   "radius": 250,
+   "region": "Seseragi Kaidō",
+   "summary": "Écomusée en plein air de maisons et moulins traditionnels sauvés de l'engloutissement.",
+   "history": "La vallée de Shōkawa a été profondément transformée par la construction du barrage de Miboro, achevé en 1961, dont le lac a englouti plusieurs villages. Une partie des maisons traditionnelles a été démontée et remontée ailleurs ; cet écomusée en présente plusieurs, avec des moulins à eau en bois en fonctionnement.\n\nLa vallée garde une autre histoire célèbre : les « cerisiers de Shōkawa » (Shōkawa-zakura), deux cerisiers vieux de plusieurs siècles qui se trouvaient dans des temples promis à l'engloutissement. En 1960, ils furent transplantés sur la rive au prix d'une opération technique jugée alors impossible, et fleurissent toujours chaque printemps au-dessus du lac.",
+   "tips": "Écomusée en plein air (entrée payante modique).",
+   "approx": false
+  },
+  {
+   "id": "furukawa",
+   "name": "Hida-Furukawa — canal Shirakabe Dozōgai",
+   "ja": "飛騨古川 白壁土蔵街",
+   "lat": 36.235525,
+   "lon": 137.186696,
+   "cat": "quartier",
+   "imp": 1,
+   "radius": 250,
+   "region": "Takayama",
+   "summary": "Entrepôts à murs blancs et canal peuplé de centaines de carpes koï colorées.",
+   "history": "Furukawa est une petite ville-château fondée à la fin du XVIe siècle par la famille Kanamori, qui fit aussi creuser le canal de Setogawa pour l'irrigation. Le long de ce canal s'alignent les shirakabe dozō, entrepôts aux murs blanchis à la chaux et aux soubassements de bois, où les marchands stockaient saké, riz et marchandises à l'abri du feu.\n\nEn 1968, le canal étant devenu sale, les habitants y lâchèrent des carpes koï pour s'encourager à le garder propre : elles sont aujourd'hui un millier, que l'on transfère dans un étang à l'approche de l'hiver. Sous les avant-toits des maisons, observez les kumo, motifs de nuages sculptés par les charpentiers de Hida, signature de chaque artisan.\n\nLe Furukawa Matsuri (19-20 avril), avec son tambour géant Okoshi Daiko, compte parmi les fêtes les plus spectaculaires du Japon. La ville a aussi servi de modèle à plusieurs décors du film d'animation Your Name (2016).",
+   "tips": "Fin d'après-midi : lumière douce sur le canal.",
+   "approx": false
+  },
+  {
+   "id": "hirayu_otaki",
+   "name": "Cascade Hirayu Ōtaki",
+   "ja": "平湯大滝",
+   "lat": 36.177055,
+   "lon": 137.559613,
+   "cat": "nature",
+   "imp": 1,
+   "radius": 250,
+   "region": "Okuhida & Kamikōchi",
+   "summary": "Cascade de 64 m de haut, l'une des « 100 plus belles cascades du Japon ».",
+   "history": "Haute de 64 mètres et large d'environ 6 mètres, la cascade Hirayu Ōtaki est classée parmi les 100 cascades remarquables du Japon. Elle se trouve à l'entrée de la vallée d'Okuhida, dans le parc national de Chūbu-Sangaku.\n\nLa légende associe le lieu au célèbre seigneur de guerre Takeda Shingen : au XVIe siècle, ses soldats blessés, perdus dans la montagne, auraient été guidés par un vieux singe blanc jusqu'à une source chaude qui les guérit — la source de Hirayu, toute proche.\n\nEn février, la cascade gelée est illuminée lors d'un festival nocturne. Fin avril, la fonte des neiges lui donne toute sa puissance.",
+   "tips": "Court chemin depuis le parking. Vêtements chauds conseillés.",
+   "approx": false
+  },
+  {
+   "id": "akandana",
+   "name": "Parking d'Akandana (navette Kamikōchi)",
+   "ja": "あかんだな駐車場",
+   "lat": 36.196264,
+   "lon": 137.556759,
+   "cat": "transport",
+   "imp": 2,
+   "radius": 250,
+   "region": "Okuhida & Kamikōchi",
+   "summary": "Parking obligatoire côté Gifu : la vallée de Kamikōchi est interdite aux voitures particulières.",
+   "history": "Pour protéger son écosystème fragile, la vallée de Kamikōchi est fermée aux voitures particulières depuis 1975. Côté Gifu, on laisse son véhicule au parking d'Akandana, à Hirayu, d'où partent les navettes (≈ 30 min) qui franchissent le tunnel d'Anbō.\n\nLa route n'ouvre qu'à la mi-avril, après le déneigement, et ferme à la mi-novembre.",
+   "tips": "Vérifier l'horaire de la dernière navette de retour. Parking payant.",
+   "approx": false
+  },
+  {
+   "id": "taishoike",
+   "name": "Étang Taishō-ike",
+   "ja": "大正池",
+   "lat": 36.228726,
+   "lon": 137.618651,
+   "cat": "nature",
+   "imp": 3,
+   "radius": 250,
+   "region": "Okuhida & Kamikōchi",
+   "summary": "Lac né d'une éruption en 1915, hérissé de troncs morts face au volcan Yakedake.",
+   "history": "En 1915, durant l'ère Taishō, une éruption du volcan Yakedake provoque une coulée de boue qui barre la rivière Azusa et donne naissance à cet étang. Les arbres noyés, restés debout, lui ont donné son allure fantomatique, même si la plupart ont aujourd'hui disparu.\n\nComblé peu à peu par les sédiments, l'étang doit être régulièrement dragué pour subsister. Au petit matin, la brume et les reflets du mont Hotaka en font l'un des paysages les plus photographiés des Alpes japonaises.",
+   "tips": "Suggestion (hors carnet) : descendre à l'arrêt Taishō-ike et remonter à pied jusqu'à Kappabashi (≈ 1h, plat).",
+   "approx": false
+  },
+  {
+   "id": "kamikochi_bt",
+   "name": "Terminal de bus de Kamikōchi",
+   "ja": "上高地バスターミナル",
+   "lat": 36.2474,
+   "lon": 137.6357,
+   "cat": "transport",
+   "imp": 2,
+   "radius": 200,
+   "region": "Okuhida & Kamikōchi",
+   "approx": true,
+   "summary": "Arrivée de la navette, à 5 min à pied du pont Kappabashi.",
+   "history": "Kamikōchi, « le lieu où les dieux sont descendus » selon l'une des graphies de son nom (神降地), est une haute vallée glaciaire à environ 1 500 m d'altitude. Classée site pittoresque et monument naturel spécial, elle fait partie du parc national de Chūbu-Sangaku créé en 1934.\n\nAu terminal se trouvent toilettes, centre d'information et petite restauration — à utiliser avant de partir sur les sentiers.",
+   "tips": "Repérer l'horaire de la dernière navette vers Akandana. Position approximative."
+  },
+  {
+   "id": "kappabashi",
+   "name": "Pont Kappabashi & rivière Azusa",
+   "ja": "河童橋・梓川",
+   "lat": 36.248844,
+   "lon": 137.637837,
+   "cat": "nature",
+   "imp": 1,
+   "radius": 300,
+   "region": "Okuhida & Kamikōchi",
+   "summary": "Le pont suspendu en bois face aux sommets enneigés du massif de Hotaka.",
+   "history": "Le pont suspendu de Kappabashi, long d'environ 37 mètres, franchit la rivière Azusa aux eaux d'une transparence cristalline. Il a été reconstruit à plusieurs reprises ; il offre la vue la plus célèbre de Kamikōchi : au nord, le massif de Hotaka, dont l'Okuhotaka-dake (3 190 m) est le troisième sommet du Japon ; au sud, le volcan actif Yakedake.\n\nSon nom, « le pont du kappa », évoque cette créature aquatique du folklore japonais. L'écrivain Akutagawa Ryūnosuke en fit le point de départ de sa satire Kappa (1927), dont le héros découvre le pays des kappa en randonnant à Kamikōchi.\n\nC'est le missionnaire anglais Walter Weston (1861-1940) qui fit connaître ces montagnes au monde à la fin du XIXe siècle et popularisa le nom d'« Alpes japonaises » ; considéré comme le père de l'alpinisme moderne au Japon, il a un monument en bord de rivière, honoré chaque année au début de l'été.",
+   "tips": "À 1 500 m, il fait frais en avril : vêtements chauds, coupe-vent, bonnes chaussures.",
+   "approx": false
+  },
+  {
+   "id": "hirayu_onsen",
+   "name": "Ryokan — Hirayu Onsen",
+   "ja": "平湯温泉",
+   "lat": 36.191091,
+   "lon": 137.551653,
+   "cat": "onsen",
+   "imp": 1,
+   "radius": 300,
+   "region": "Okuhida & Kamikōchi",
+   "approx": true,
+   "summary": "Nuit en auberge traditionnelle avec bains extérieurs (rotenburo) et dîner kaiseki.",
+   "history": "Hirayu est la plus ancienne des cinq stations thermales d'Okuhida (Hirayu, Fukuji, Shin-Hirayu, Tochio, Shin-Hotaka). Sa découverte est attribuée par la légende aux soldats de Takeda Shingen, guidés par un singe blanc jusqu'à la source, au XVIe siècle.\n\nOkuhida est réputée pour la densité de ses rotenburo, bains en plein air face aux montagnes. Le séjour en ryokan suit un rituel : on enfile le yukata (côté gauche par-dessus le droit — l'inverse est réservé aux défunts), on prend un bain avant le dîner, puis on savoure le kaiseki, succession de petits plats de saison dont l'origine remonte aux repas accompagnant la cérémonie du thé.",
+   "tips": "Arriver avant 17h30-18h00 pour profiter d'un premier bain avant le dîner. Position réglée sur le centre de Hirayu."
+  },
+  {
+   "id": "nagawado",
+   "name": "Barrage de Nagawado",
+   "ja": "奈川渡ダム",
+   "lat": 36.132635,
+   "lon": 137.720418,
+   "cat": "viewpoint",
+   "imp": 2,
+   "radius": 300,
+   "region": "Matsumoto",
+   "summary": "Barrage-voûte vertigineux de 155 m dominant le lac turquoise d'Azusa.",
+   "history": "Achevé en 1969, le barrage de Nagawado est un barrage-voûte en béton haut de 155 mètres, l'un des plus hauts du Japon. Il retient le lac Azusa et fait partie d'un ensemble de trois barrages en cascade sur la rivière Azusa, alimentant une grande centrale hydroélectrique.\n\nLa Route 158, qui relie Takayama à Matsumoto à travers les Alpes, passe sur sa crête et enchaîne tunnels et galeries creusés dans la roche, ce qui en fait l'une des routes de montagne les plus impressionnantes de la région.",
+   "tips": "Arrêt panoramique sur le parking à côté de la crête.",
+   "approx": false
+  },
+  {
+   "id": "matsumoto_castle",
+   "name": "Château de Matsumoto",
+   "ja": "松本城",
+   "lat": 36.238635,
+   "lon": 137.968871,
+   "cat": "castle",
+   "imp": 1,
+   "radius": 250,
+   "region": "Matsumoto",
+   "summary": "Le « Château du Corbeau », donjon noir d'origine classé trésor national.",
+   "history": "Le château de Matsumoto est l'un des cinq donjons du Japon classés trésor national (avec Himeji, Hikone, Inuyama et Matsue), et l'un des douze donjons d'origine encore debout. Son donjon principal à cinq toits (six niveaux intérieurs) est édifié vers 1593-1594 par Ishikawa Kazumasa et son fils Yasunaga, vassaux de Toyotomi Hideyoshi, sur le site d'une forteresse plus ancienne, Fukashi.\n\nSes façades de bois laqué noir lui valent le surnom de Karasu-jō, le « Château du Corbeau ». Fait rare, c'est un château de plaine, protégé par ses douves plutôt que par une colline. La tourelle Tsukimi-yagura, ajoutée vers 1635, est un pavillon de contemplation de la lune : un luxe de temps de paix.\n\nMis aux enchères en 1872 après l'abolition des domaines, le château échappa à la démolition grâce à des notables locaux qui le rachetèrent, puis fut sauvé de l'effondrement au début du XXe siècle par une campagne de restauration menée par le directeur d'école Kobayashi Unari.",
+   "tips": "On se déchausse à l'entrée (sac fourni). Escaliers très raides (jusqu'à 61°) : chaussettes antidérapantes.",
+   "approx": false
+  },
+  {
+   "id": "matsumoto_stn",
+   "name": "Gare de Matsumoto — restitution de la voiture",
+   "ja": "松本駅",
+   "lat": 36.230748,
+   "lon": 137.964192,
+   "cat": "transport",
+   "imp": 2,
+   "radius": 250,
+   "region": "Matsumoto",
+   "summary": "Rendu de la voiture de location et départ en JR Azusa Limited Express vers Shinjuku.",
+   "history": "Le Limited Express Azusa relie Matsumoto à Shinjuku en environ 2h30 par la ligne Chūō. Il porte le nom de la rivière Azusa, celle de Kamikōchi, et circule depuis 1966.\n\nMatsumoto est la deuxième ville de la préfecture de Nagano, une ancienne ville-château devenue étape des alpinistes partant vers les Alpes du Nord. Sa spécialité, le sanzoku-yaki (« grillade des brigands »), est un généreux filet de poulet mariné à l'ail et à la sauce soja, pané et frit.",
+   "tips": "Faire le plein d'essence avant de rendre la voiture et garder le reçu pour l'agence.",
+   "approx": false
+  },
+  {
+   "id": "shinjuku",
+   "name": "Tokyo — Shinjuku (Yamada Building)",
+   "ja": "新宿",
+   "lat": 35.690921,
+   "lon": 139.700258,
+   "cat": "hotel",
+   "imp": 1,
+   "radius": 400,
+   "region": "Tokyo",
+   "approx": true,
+   "summary": "Arrivée à Tokyo par la gare la plus fréquentée du monde.",
+   "history": "La gare de Shinjuku, ouverte en 1885 comme une modeste halte dans la campagne, est devenue la gare la plus fréquentée du monde, avec plusieurs millions de passagers par jour et plus de 200 sorties.\n\nÀ l'époque Edo, Shinjuku (« le nouveau relais ») était le premier relais de la route du Kōshū Kaidō en quittant Edo. Le quartier s'est développé après le grand séisme du Kantō de 1923, épargné grâce à son sol plus stable, puis est devenu après la guerre le centre des gratte-ciel de Tokyo, autour de la mairie dessinée par Tange Kenzō (1991).",
+   "tips": "Position réglée sur la gare : l'adresse exacte du Yamada Building n'est pas dans le carnet."
+  }
+ ],
+ "days": [
+  {
+   "num": 1,
+   "date": "2027-04-19",
+   "part": "Partie 1 · Kyoto historique",
+   "color": "#B5332E",
+   "title": "Arrivée & immersion nocturne",
+   "subtitle": "Hyper-centre historique, berges de la Kamo-gawa, lanternes de Pontochō et premier ramen.",
+   "night": "Kyoto — Nakagyō-ku, Higashikatamachi 618",
+   "transport": "Métro ligne Karasuma (station Marutamachi) + marche ou trottinette Luup",
+   "steps": [
+    {
+     "time": "20h00",
+     "type": "Trajet",
+     "title": "Gare de Kyoto → Logement",
+     "details": "Métro ligne Karasuma jusqu'à Marutamachi (6 min), puis 5 min à pied vers l'est.",
+     "pois": [
+      "kyoto_station"
+     ],
+     "optional": false,
+     "meta": "11 min · 220 JPY"
+    },
+    {
+     "time": "20h15",
+     "type": "Check-in",
+     "title": "Installation au logement",
+     "details": "Installation rapide à l'hôtel.",
+     "pois": [
+      "hotel_kyoto"
+     ],
+     "optional": false,
+     "meta": ""
+    },
+    {
+     "time": "20h45",
+     "type": "Trajet actif",
+     "title": "Vers la rivière Kamo-gawa",
+     "details": "Trottinette Luup ou marche vers l'est le long de la Kamo-gawa.",
+     "pois": [
+      "kamogawa"
+     ],
+     "optional": false,
+     "meta": "15 min · pied ou Luup"
+    },
+    {
+     "time": "21h00",
+     "type": "Visite & repas",
+     "title": "Ruelle de Pontochō & dîner ramen",
+     "details": "Ambiance nocturne feutrée de Pontochō, puis ramen ou gyoza dans les ruelles de Kawaramachi.",
+     "pois": [
+      "pontocho",
+      "kawaramachi"
+     ],
+     "optional": false,
+     "meta": "Soirée libre"
+    }
+   ],
+   "notes": [
+    "Argent liquide indispensable : prévoir au moins 5 000 JPY en espèces par jour et par personne (temples, street-food à Fushimi Inari et Nishiki).",
+    "Application Luup : idéale pour longer les canaux et la Kamo-gawa.",
+    "Google Maps au Japon : les itinéraires multi-arrêts ne fonctionnent qu'à pied ou en voiture."
+   ],
+   "approxTimes": false
+  },
+  {
+   "num": 2,
+   "date": "2027-04-20",
+   "part": "Partie 1 · Kyoto historique",
+   "color": "#B5332E",
+   "title": "L'axe historique Est",
+   "subtitle": "Kiyomizu-dera à l'aube, ruelles d'Higashiyama, dragons de Kennin-ji, aqueduc de Nanzen-ji & Pavillon d'Argent.",
+   "night": "Kyoto — Nakagyō-ku",
+   "transport": "Taxi matinal + pied + bus 203 / 17 ou Luup",
+   "steps": [
+    {
+     "time": "06h00",
+     "type": "Trajet taxi",
+     "title": "Logement → Kiyomizu-dera",
+     "details": "Taxi direct jusqu'au pied des marches.",
+     "pois": [],
+     "optional": false,
+     "meta": "≈ 15 min · 1 500–2 000 JPY"
+    },
+    {
+     "time": "06h30",
+     "type": "Visite (entrer)",
+     "title": "Temple Kiyomizu-dera",
+     "details": "Le balcon de bois au lever du jour, panorama sur Kyoto avant la foule.",
+     "pois": [
+      "kiyomizudera"
+     ],
+     "optional": false,
+     "meta": "1h · 500 JPY"
+    },
+    {
+     "time": "07h30",
+     "type": "Trajet & visite",
+     "title": "Ruelles Sannenzaka & Ninenzaka",
+     "details": "Descente à pied des ruelles pavées, boutiques encore fermées.",
+     "pois": [
+      "sannenzaka",
+      "ninenzaka"
+     ],
+     "optional": false,
+     "meta": "Gratuit"
+    },
+    {
+     "time": "08h30",
+     "type": "Visite (extérieur)",
+     "title": "Sanctuaire Yasaka-jinja & quartier de Gion",
+     "details": "Esplanade du sanctuaire puis venelles de Gion.",
+     "pois": [
+      "yasaka",
+      "gion"
+     ],
+     "optional": false,
+     "meta": "≈ 45 min · gratuit"
+    },
+    {
+     "time": "09h00",
+     "type": "Visite",
+     "title": "Temple Shōren-in",
+     "details": "Synthèse : visite facultative, ouvre à 9h00.",
+     "pois": [
+      "shorenin"
+     ],
+     "optional": true,
+     "meta": "Ouvre à 9h00"
+    },
+    {
+     "time": "09h40",
+     "type": "Promenade",
+     "title": "Canal Shirakawa",
+     "details": "Balade le long du canal entre Shōren-in et Kennin-ji (synthèse).",
+     "pois": [
+      "shirakawa"
+     ],
+     "optional": false,
+     "meta": "Extérieur"
+    },
+    {
+     "time": "10h00",
+     "type": "Visite (entrer)",
+     "title": "Temple Kennin-ji",
+     "details": "Havre zen ; dragons jumeaux au plafond du Hattō. Chaussures retirées.",
+     "pois": [
+      "kenninji"
+     ],
+     "optional": false,
+     "meta": "1h · ≈ 800 JPY · ouvre à 10h00"
+    },
+    {
+     "time": "11h15",
+     "type": "Repas",
+     "title": "Déjeuner vers Kawaramachi",
+     "details": "Pause déjeuner, spécialités locales.",
+     "pois": [
+      "kawaramachi"
+     ],
+     "optional": false,
+     "meta": ""
+    },
+    {
+     "time": "12h15",
+     "type": "Liaison",
+     "title": "Vers Nanzen-ji",
+     "details": "Bus n° 203 ou trottinette Luup le long de la rivière.",
+     "pois": [],
+     "optional": false,
+     "meta": "≈ 15 min"
+    },
+    {
+     "time": "12h45",
+     "type": "Visite (extérieur)",
+     "title": "Nanzen-ji & aqueduc Suirokaku",
+     "details": "Immense complexe monastique et aqueduc en briques rouges (synthèse : extérieur uniquement).",
+     "pois": [
+      "nanzenji",
+      "suirokaku"
+     ],
+     "optional": false,
+     "meta": "1h · gratuit"
+    },
+    {
+     "time": "14h00",
+     "type": "Trajet & visite",
+     "title": "Chemin des Philosophes",
+     "details": "Remontée du canal bordé d'arbres vers le nord.",
+     "pois": [
+      "tetsugaku"
+     ],
+     "optional": false,
+     "meta": "≈ 15 min de marche + flânerie"
+    },
+    {
+     "time": "14h45",
+     "type": "Visite",
+     "title": "Temple Hōnen-in",
+     "details": "Portail de chaume et tertres de sable blanc. Synthèse : facultatif, ferme à 16h00.",
+     "pois": [
+      "honenin"
+     ],
+     "optional": true,
+     "meta": "Gratuit · ferme à 16h00"
+    },
+    {
+     "time": "15h15",
+     "type": "Visite (extérieur)",
+     "title": "Ginkaku-ji — Pavillon d'Argent",
+     "details": "Synthèse : passage en extérieur uniquement.",
+     "pois": [
+      "ginkakuji"
+     ],
+     "optional": false,
+     "meta": "≈ 45 min"
+    },
+    {
+     "time": "16h30",
+     "type": "Retour & dîner",
+     "title": "Retour au logement, soirée libre",
+     "details": "Bus n° 17 ou 203 / Luup. Dîner libre vers Karasuma-Oike.",
+     "pois": [
+      "hotel_kyoto"
+     ],
+     "optional": false,
+     "meta": "≈ 25 min"
+    }
+   ],
+   "notes": [
+    "Budget entrées ≈ 1 300–1 900 JPY/pers. en espèces selon les options (Kiyomizu 500 · Kennin-ji ≈ 800 · Shōren-in ≈ 600 si visité).",
+    "Départ impératif à 6h00 pour profiter de Kiyomizu-dera et Sannenzaka dans le calme.",
+    "Étapes facultatives (synthèse) : Shōren-in et Hōnen-in."
+   ],
+   "approxTimes": false
+  },
+  {
+   "num": 3,
+   "date": "2027-04-21",
+   "part": "Partie 1 · Kyoto historique",
+   "color": "#B5332E",
+   "title": "L'exploit sportif, bambous secrets & sentō",
+   "subtitle": "Torii de Fushimi Inari à l'aube, traversée de Sagano, Pavillon d'Or et détente au sentō.",
+   "night": "Kyoto — Nakagyō-ku",
+   "transport": "Métro + JR (lignes Nara et Sagano) + taxi + bus 205",
+   "steps": [
+    {
+     "time": "06h00",
+     "type": "Métro + JR",
+     "title": "Logement → Fushimi Inari",
+     "details": "Métro Marutamachi → gare de Kyoto, puis JR Nara jusqu'à Inari (5 min).",
+     "pois": [],
+     "optional": false,
+     "meta": "≈ 25 min"
+    },
+    {
+     "time": "06h45",
+     "type": "Rando (extérieur)",
+     "title": "Sanctuaire Fushimi Inari-taisha",
+     "details": "Montée au cœur des milliers de torii rouges.",
+     "pois": [
+      "fushimi_inari"
+     ],
+     "optional": false,
+     "meta": "≈ 2h30 · gratuit"
+    },
+    {
+     "time": "09h00",
+     "type": "Visite (extérieur)",
+     "title": "Sanctuaire Araki-jinja",
+     "details": "Sanctuaire caché et ses renards en terre cuite.",
+     "pois": [
+      "araki"
+     ],
+     "optional": false,
+     "meta": "Gratuit"
+    },
+    {
+     "time": "09h15",
+     "type": "Brunch",
+     "title": "Street-food à Inari",
+     "details": "Brochettes de bœuf wagyu, poulet frit et inari-zushi aux abords de la gare.",
+     "pois": [
+      "inari_stn"
+     ],
+     "optional": false,
+     "meta": "≈ 45 min"
+    },
+    {
+     "time": "10h00",
+     "type": "Transfert JR",
+     "title": "Inari → Saga-Arashiyama",
+     "details": "JR Nara jusqu'à Kyoto, puis JR Sagano jusqu'à Saga-Arashiyama.",
+     "pois": [
+      "saga_arashiyama_stn"
+     ],
+     "optional": false,
+     "meta": "≈ 40 min"
+    },
+    {
+     "time": "11h00",
+     "type": "Balade",
+     "title": "Bambouseraie d'Arashiyama",
+     "details": "Synthèse : facultatif (« peut être à skip »).",
+     "pois": [
+      "bamboo"
+     ],
+     "optional": true,
+     "meta": "≈ 45 min"
+    },
+    {
+     "time": "11h30",
+     "type": "Trajet",
+     "title": "Rue de Saga-Toriimoto",
+     "details": "Remontée vers le nord par la rue préservée bordée de chaumières.",
+     "pois": [
+      "toriimoto"
+     ],
+     "optional": false,
+     "meta": "Extérieur"
+    },
+    {
+     "time": "11h45",
+     "type": "Visite (entrer)",
+     "title": "Ermitage Giō-ji",
+     "details": "Minuscule temple tapissé de mousse.",
+     "pois": [
+      "gioji"
+     ],
+     "optional": false,
+     "meta": "35 min · 300 JPY"
+    },
+    {
+     "time": "12h30",
+     "type": "Visite (entrer)",
+     "title": "Temple Adashino Nenbutsu-ji",
+     "details": "8 000 stèles de pierre, puis l'escalier de la bambouseraie secrète.",
+     "pois": [
+      "adashino"
+     ],
+     "optional": false,
+     "meta": "45 min · 500 JPY"
+    },
+    {
+     "time": "13h30",
+     "type": "Visite (entrer)",
+     "title": "Temple Otagi Nenbutsu-ji",
+     "details": "Sommet de la randonnée : 1 200 statues aux expressions joyeuses.",
+     "pois": [
+      "otagi"
+     ],
+     "optional": false,
+     "meta": "45 min · 500 JPY"
+    },
+    {
+     "time": "14h15",
+     "type": "Taxi",
+     "title": "Otagi → Pavillon d'Or",
+     "details": "Synthèse : taxi obligatoire.",
+     "pois": [],
+     "optional": false,
+     "meta": "≈ 20 min · ≈ 2 500 JPY"
+    },
+    {
+     "time": "14h30",
+     "type": "Visite",
+     "title": "Kinkaku-ji — Pavillon d'Or",
+     "details": "Le pavillon doré sur son étang-miroir sous la lumière de l'après-midi.",
+     "pois": [
+      "kinkakuji"
+     ],
+     "optional": false,
+     "meta": "≈ 1h · 500 JPY"
+    },
+    {
+     "time": "15h30",
+     "type": "Visite (extérieur)",
+     "title": "Sanctuaire Hirano-jinja",
+     "details": "Ajout de la synthèse : sanctuaire aux cerisiers.",
+     "pois": [
+      "hirano"
+     ],
+     "optional": false,
+     "meta": "Gratuit"
+    },
+    {
+     "time": "16h00",
+     "type": "Découverte",
+     "title": "Découverte libre dans le coin",
+     "details": "Synthèse : facultatif. Suggestion : Kitano Tenmangū et le quartier de Kamishichiken.",
+     "pois": [
+      "kitano"
+     ],
+     "optional": true,
+     "meta": ""
+    },
+    {
+     "time": "16h30",
+     "type": "Trajet retour",
+     "title": "Retour au logement",
+     "details": "Bus direct n° 205 ou taxi. Repos et changement de tenue.",
+     "pois": [
+      "hotel_kyoto"
+     ],
+     "optional": false,
+     "meta": "≈ 25 min"
+    },
+    {
+     "time": "18h00",
+     "type": "Bains",
+     "title": "Sentō Hatsune-yu",
+     "details": "Bain chaud, sauna et bain froid après les ≈ 25 000 pas du jour.",
+     "pois": [
+      "hatsuneyu"
+     ],
+     "optional": false,
+     "meta": "1h15 · ≈ 500 JPY"
+    },
+    {
+     "time": "20h00",
+     "type": "Dîner",
+     "title": "Dîner ramen revigorant",
+     "details": "Dans l'une des bonnes tables autour du logement (Nakagyō-ku).",
+     "pois": [],
+     "optional": false,
+     "meta": ""
+    }
+   ],
+   "notes": [
+    "Sentō : bains non mixtes, sans maillot ; se laver entièrement assis avant d'entrer dans le bain. Prévoir 500 JPY en monnaie + petite serviette.",
+    "Entrées temples du jour : ≈ 1 800 JPY/pers. (+ ≈ 500 JPY sentō)."
+   ],
+   "approxTimes": false
+  },
+  {
+   "num": 4,
+   "date": "2027-04-22",
+   "part": "Partie 1 · Kyoto historique",
+   "color": "#B5332E",
+   "title": "Le pouvoir, les halles & les 1001 statues",
+   "subtitle": "Château de Nijō et ses planchers rossignols, street-food à Nishiki, Sanjūsangen-dō, puis train pour Nakatsugawa.",
+   "night": "À préciser — région de Nakatsugawa (voiture récupérée vers 18h00)",
+   "transport": "Marche + Luup + taxi ou bus + métro, puis train vers Nakatsugawa",
+   "steps": [
+    {
+     "time": "07h30",
+     "type": "Logistique",
+     "title": "Check-out & dépôt des valises",
+     "details": "Bagages en consigne à la réception.",
+     "pois": [
+      "hotel_kyoto"
+     ],
+     "optional": false,
+     "meta": ""
+    },
+    {
+     "time": "08h30",
+     "type": "Trajet à pied",
+     "title": "Logement → Château de Nijō",
+     "details": "10 à 15 min de marche vers l'ouest.",
+     "pois": [],
+     "optional": false,
+     "meta": "≈ 12 min"
+    },
+    {
+     "time": "08h45",
+     "type": "Visite (entrer)",
+     "title": "Château de Nijō",
+     "details": "Palais Ninomaru, planchers rossignols, fresques de l'école Kanō.",
+     "pois": [
+      "nijo"
+     ],
+     "optional": false,
+     "meta": "1h30 · ≈ 1 300 JPY"
+    },
+    {
+     "time": "10h15",
+     "type": "Visite (extérieur)",
+     "title": "Sanctuaire Takenobu Inari-jinja",
+     "details": "Synthèse : facultatif. Arbre sacré de ≈ 850 ans.",
+     "pois": [
+      "takenobu"
+     ],
+     "optional": true,
+     "meta": "≈ 30 min · gratuit"
+    },
+    {
+     "time": "11h00",
+     "type": "Street-food",
+     "title": "Marché de Nishiki",
+     "details": "Wagyu en brochette, tako tamago, douceurs au matcha.",
+     "pois": [
+      "nishiki"
+     ],
+     "optional": false,
+     "meta": "1h30 · espèces"
+    },
+    {
+     "time": "12h45",
+     "type": "Liaison",
+     "title": "Nishiki → Sanjūsangen-dō",
+     "details": "Taxi direct ou bus de ville.",
+     "pois": [],
+     "optional": false,
+     "meta": "≈ 12 min"
+    },
+    {
+     "time": "13h00",
+     "type": "Visite (entrer)",
+     "title": "Temple Sanjūsangen-dō",
+     "details": "Les 1 001 statues de Kannon dorées.",
+     "pois": [
+      "sanjusangendo"
+     ],
+     "optional": false,
+     "meta": "1h15 · 600 JPY"
+    },
+    {
+     "time": "14h15",
+     "type": "Bagages",
+     "title": "Récupération des valises",
+     "details": "Retour à l'hébergement, puis métro (Marutamachi) ou taxi vers la gare.",
+     "pois": [
+      "hotel_kyoto"
+     ],
+     "optional": false,
+     "meta": "≈ 30 min"
+    },
+    {
+     "time": "15h00",
+     "type": "Départ train",
+     "title": "Gare de Kyoto → Nakatsugawa",
+     "details": "Synthèse : départ à 15h00 (et non 16h00). Shinkansen jusqu'à Nagoya puis ligne JR Chūō.",
+     "pois": [
+      "kyoto_station"
+     ],
+     "optional": false,
+     "meta": ""
+    },
+    {
+     "time": "18h00",
+     "type": "Voiture",
+     "title": "Récupération de la voiture — Nakatsugawa",
+     "details": "Synthèse : prise en charge de la voiture de location vers 18h00.",
+     "pois": [
+      "nakatsugawa_stn"
+     ],
+     "optional": false,
+     "meta": ""
+    }
+   ],
+   "notes": [
+    "Budget visites ≈ 1 900 JPY/pers. (Nijō ≈ 1 300 + Sanjūsangen-dō 600) + espèces pour Nishiki.",
+    "Mise à jour (synthèse) : départ en gare à 15h00 vers Nakatsugawa, voiture récupérée vers 18h00.",
+    "Le lieu de la nuit du 22 n'est pas précisé dans les documents."
+   ],
+   "approxTimes": false
+  },
+  {
+   "num": 5,
+   "date": "2027-04-23",
+   "part": "Partie 2 · Road-trip dans les Alpes japonaises",
+   "color": "#1F5C4A",
+   "title": "L'entrée dans les Alpes par le Nakasendō",
+   "subtitle": "Randonnée historique de Magome à Tsumago, gorges turquoise de Tsukechi, bains de Gero et arrivée à Takayama.",
+   "night": "Takayama — nuit 1 / 3",
+   "transport": "Voiture ≈ 2h00 (routes 256 & 41) + randonnée 8 km (≈ 3h)",
+   "steps": [
+    {
+     "time": "08h30",
+     "type": "Départ rando",
+     "title": "Magome-juku",
+     "details": "Départ de la randonnée sur l'ancienne voie pavée d'Edo.",
+     "pois": [
+      "magome"
+     ],
+     "optional": false,
+     "meta": ""
+    },
+    {
+     "time": "09h30",
+     "type": "Randonnée",
+     "title": "Col de Magome & sentier du Nakasendō",
+     "details": "Forêts de cyprès, cascades Odaki & Medaki, hameaux de montagne.",
+     "pois": [
+      "nakasendo"
+     ],
+     "optional": false,
+     "meta": "8 km · ≈ 3h"
+    },
+    {
+     "time": "12h00",
+     "type": "Visite & repas",
+     "title": "Tsumago-juku",
+     "details": "Village-relais préservé. Déjeuner : soba et gohei mochi.",
+     "pois": [
+      "tsumago"
+     ],
+     "optional": false,
+     "meta": ""
+    },
+    {
+     "time": "13h30",
+     "type": "Retour voiture",
+     "title": "Retour à Magome",
+     "details": "Non précisé dans le carnet : bus Tsumago → Magome (≈ 30 min) ou taxi.",
+     "pois": [
+      "magome"
+     ],
+     "optional": false,
+     "meta": "À organiser"
+    },
+    {
+     "time": "14h30",
+     "type": "Halte",
+     "title": "Gorges de Tsukechi",
+     "details": "Eaux turquoise translucides et ponts suspendus.",
+     "pois": [
+      "tsukechi"
+     ],
+     "optional": false,
+     "meta": "≈ 20 min"
+    },
+    {
+     "time": "15h45",
+     "type": "Halte détente",
+     "title": "Gero Onsen",
+     "details": "Bains de pieds publics gratuits (ashiyu) au bord de la rivière.",
+     "pois": [
+      "gero"
+     ],
+     "optional": false,
+     "meta": ""
+    },
+    {
+     "time": "16h45",
+     "type": "Route panoramique",
+     "title": "Gorges de la rivière Hida (Route 41)",
+     "details": "Formations rocheuses sculptées par le courant.",
+     "pois": [
+      "hidakyo"
+     ],
+     "optional": false,
+     "meta": ""
+    },
+    {
+     "time": "18h00",
+     "type": "Installation",
+     "title": "Arrivée à Takayama",
+     "details": "Installation pour 3 nuits, puis promenade nocturne dans les ruelles.",
+     "pois": [
+      "takayama"
+     ],
+     "optional": false,
+     "meta": "Nuit 1 / 3"
+    }
+   ],
+   "notes": [
+    "À Tsumago : soba chaudes ou froides et gohei mochi (galette de riz grillée au miso, noix et sésame).",
+    "Tracé routier : Tsumago → Tsukechi → Gero Onsen → gorges de la Hida → Takayama par les routes 256 et 41.",
+    "Serviette dans la voiture pour les ashiyu de Gero."
+   ],
+   "approxTimes": true
+  },
+  {
+   "num": 6,
+   "date": "2027-04-24",
+   "part": "Partie 2 · Road-trip dans les Alpes japonaises",
+   "color": "#1F5C4A",
+   "title": "Chaumières de Gokayama & vieux Takayama",
+   "subtitle": "Belvédère de Shiroyama (Shirakawa-gō), hameaux d'Ainokura et Suganuma, brasseries de saké et bœuf de Hida.",
+   "night": "Takayama — nuit 2 / 3",
+   "transport": "Voiture ≈ 2h30 aller-retour (boucle de Gokayama)",
+   "steps": [
+    {
+     "time": "08h00",
+     "type": "Départ",
+     "title": "Départ de Takayama",
+     "details": "Boucle en voiture vers Shirakawa-gō et Gokayama.",
+     "pois": [
+      "takayama"
+     ],
+     "optional": false,
+     "meta": ""
+    },
+    {
+     "time": "09h00",
+     "type": "Arrêt photo",
+     "title": "Belvédère de Shiroyama",
+     "details": "Vue plongeante sur la vallée et les toits de Shirakawa-gō.",
+     "pois": [
+      "shiroyama_obs"
+     ],
+     "optional": false,
+     "meta": ""
+    },
+    {
+     "time": "10h00",
+     "type": "Visite",
+     "title": "Hameau d'Ainokura",
+     "details": "Fermes centenaires gasshō-zukuri.",
+     "pois": [
+      "ainokura"
+     ],
+     "optional": false,
+     "meta": ""
+    },
+    {
+     "time": "11h30",
+     "type": "Visite",
+     "title": "Hameau de Suganuma",
+     "details": "Second hameau classé, intime et préservé.",
+     "pois": [
+      "suganuma"
+     ],
+     "optional": false,
+     "meta": ""
+    },
+    {
+     "time": "14h00",
+     "type": "Visite & dégustation",
+     "title": "Sanmachi Suji — vieux Takayama",
+     "details": "Maisons de marchands et brasseries de saké (sugidama).",
+     "pois": [
+      "sanmachi"
+     ],
+     "optional": false,
+     "meta": "À pied"
+    },
+    {
+     "time": "19h00",
+     "type": "Dîner",
+     "title": "Grand dîner de bœuf de Hida",
+     "details": "Bœuf de Hida grillé sur feuille de magnolia avec pâte de miso (hoba miso).",
+     "pois": [],
+     "optional": false,
+     "meta": "Nuit 2 / 3"
+    }
+   ],
+   "notes": [
+    "Shiroyama le matin pour la vue carte postale, puis Ainokura et Suganuma pour le calme.",
+    "L'après-midi à pied dans le vieux Takayama (voiture déposée) : dégustation de saké possible."
+   ],
+   "approxTimes": true
+  },
+  {
+   "num": 7,
+   "date": "2027-04-25",
+   "part": "Partie 2 · Road-trip dans les Alpes japonaises",
+   "color": "#1F5C4A",
+   "title": "Cités de l'eau & route Seseragi Kaidō",
+   "subtitle": "Château et canaux de Gujō Hachiman, route forestière panoramique et carpes koï de Hida-Furukawa.",
+   "night": "Takayama — nuit 3 / 3",
+   "transport": "Voiture ≈ 3h15 sur la journée (boucle Gujō & Seseragi)",
+   "steps": [
+    {
+     "time": "08h00",
+     "type": "Départ",
+     "title": "Départ de Takayama vers Gujō Hachiman",
+     "details": "",
+     "pois": [
+      "takayama"
+     ],
+     "optional": false,
+     "meta": ""
+    },
+    {
+     "time": "09h30",
+     "type": "Visite",
+     "title": "Château de Gujō Hachiman",
+     "details": "Donjon en bois dominant la vallée.",
+     "pois": [
+      "gujo_castle"
+     ],
+     "optional": false,
+     "meta": ""
+    },
+    {
+     "time": "10h30",
+     "type": "Flânerie",
+     "title": "Source Sōgisui & ruelle Yanaka",
+     "details": "Ruelle pavée de galets et canaux d'eau cristalline.",
+     "pois": [
+      "sogisui",
+      "yanaka"
+     ],
+     "optional": false,
+     "meta": ""
+    },
+    {
+     "time": "11h15",
+     "type": "Atelier",
+     "title": "Sample Village Iwasaki",
+     "details": "Ateliers de répliques de nourriture en cire (sampuru).",
+     "pois": [
+      "iwasaki"
+     ],
+     "optional": false,
+     "meta": ""
+    },
+    {
+     "time": "12h15",
+     "type": "Visite",
+     "title": "Grottes d'Ōtaki & Jōmon",
+     "details": "Stalactites et cascade souterraine.",
+     "pois": [
+      "otaki_cave"
+     ],
+     "optional": false,
+     "meta": "≈ 30 min"
+    },
+    {
+     "time": "13h15",
+     "type": "Halte gourmande",
+     "title": "Michi-no-Eki Meihō",
+     "details": "Meihō Ham grillé sur place et glace locale.",
+     "pois": [
+      "meiho"
+     ],
+     "optional": false,
+     "meta": ""
+    },
+    {
+     "time": "14h15",
+     "type": "Arrêt",
+     "title": "Sanctuaire Hachiman",
+     "details": "Sanctuaire forestier sous des cèdres géants.",
+     "pois": [
+      "hachiman_jinja"
+     ],
+     "optional": false,
+     "meta": ""
+    },
+    {
+     "time": "14h45",
+     "type": "Belvédère",
+     "title": "Col de Nishiure (1 113 m)",
+     "details": "Point culminant de la Seseragi Kaidō.",
+     "pois": [
+      "nishiure"
+     ],
+     "optional": false,
+     "meta": ""
+    },
+    {
+     "time": "15h30",
+     "type": "Visite",
+     "title": "Moulins à eau de Shōkawa",
+     "details": "Écomusée en plein air de moulins traditionnels.",
+     "pois": [
+      "shokawa"
+     ],
+     "optional": false,
+     "meta": ""
+    },
+    {
+     "time": "17h00",
+     "type": "Promenade",
+     "title": "Hida-Furukawa — canal Shirakabe Dozōgai",
+     "details": "Entrepôts blancs et carpes koï.",
+     "pois": [
+      "furukawa"
+     ],
+     "optional": false,
+     "meta": ""
+    },
+    {
+     "time": "18h30",
+     "type": "Retour",
+     "title": "Retour à Takayama",
+     "details": "",
+     "pois": [
+      "takayama"
+     ],
+     "optional": false,
+     "meta": "Nuit 3 / 3"
+    }
+   ],
+   "notes": [
+    "Journée aux paysages ruraux les plus variés (≈ 3h15 de conduite en courts tronçons).",
+    "Déjeuner sur le pouce au Michi-no-Eki Meihō pour garder la lumière de fin d'après-midi à Furukawa."
+   ],
+   "approxTimes": true
+  },
+  {
+   "num": 8,
+   "date": "2027-04-26",
+   "part": "Partie 2 · Road-trip dans les Alpes japonaises",
+   "color": "#1F5C4A",
+   "title": "Immersion alpine à Kamikōchi & nuitée onsen",
+   "subtitle": "Cascade Hirayu Ōtaki, vallée sacrée de Kamikōchi face au massif de Hotaka et ryokan à Hirayu Onsen.",
+   "night": "Hirayu Onsen — ryokan traditionnel (nuit 1 / 1)",
+   "transport": "Voiture ≈ 0h45 jusqu'à Akandana + navette alpine ≈ 30 min",
+   "steps": [
+    {
+     "time": "08h00",
+     "type": "Départ",
+     "title": "Départ de Takayama (check-out)",
+     "details": "Route vers la vallée d'Okuhida.",
+     "pois": [
+      "takayama"
+     ],
+     "optional": false,
+     "meta": ""
+    },
+    {
+     "time": "08h45",
+     "type": "Arrêt",
+     "title": "Cascade Hirayu Ōtaki",
+     "details": "Cascade de 64 mètres.",
+     "pois": [
+      "hirayu_otaki"
+     ],
+     "optional": false,
+     "meta": ""
+    },
+    {
+     "time": "09h30",
+     "type": "Parking + navette",
+     "title": "Parking d'Akandana",
+     "details": "Kamikōchi est fermé aux voitures : navette alpine (≈ 30 min).",
+     "pois": [
+      "akandana"
+     ],
+     "optional": false,
+     "meta": ""
+    },
+    {
+     "time": "10h00",
+     "type": "Option",
+     "title": "Étang Taishō-ike",
+     "details": "Suggestion hors carnet : descendre à cet arrêt et remonter à pied (≈ 1h).",
+     "pois": [
+      "taishoike"
+     ],
+     "optional": true,
+     "meta": ""
+    },
+    {
+     "time": "10h30",
+     "type": "Arrivée",
+     "title": "Terminal de bus de Kamikōchi",
+     "details": "",
+     "pois": [
+      "kamikochi_bt"
+     ],
+     "optional": false,
+     "meta": ""
+    },
+    {
+     "time": "11h00",
+     "type": "Randonnée",
+     "title": "Rivière Azusa & pont Kappabashi",
+     "details": "Balade le long des eaux cristallines face au massif de Hotaka.",
+     "pois": [
+      "kappabashi"
+     ],
+     "optional": false,
+     "meta": ""
+    },
+    {
+     "time": "16h00",
+     "type": "Navette retour",
+     "title": "Retour au parking d'Akandana",
+     "details": "Navette en fin d'après-midi.",
+     "pois": [
+      "akandana"
+     ],
+     "optional": false,
+     "meta": ""
+    },
+    {
+     "time": "17h30",
+     "type": "Ryokan & kaiseki",
+     "title": "Ryokan à Hirayu Onsen",
+     "details": "Rotenburo, yukata et dîner kaiseki. Arriver avant 17h30–18h00.",
+     "pois": [
+      "hirayu_onsen"
+     ],
+     "optional": false,
+     "meta": ""
+    }
+   ],
+   "notes": [
+    "Kamikōchi est à ≈ 1 500 m : vêtements chauds, coupe-vent et bonnes chaussures.",
+    "Arriver au ryokan avant 17h30–18h00 pour un premier bain avant le dîner."
+   ],
+   "approxTimes": true
+  },
+  {
+   "num": 9,
+   "date": "2027-04-27",
+   "part": "Partie 2 · Road-trip dans les Alpes japonaises",
+   "color": "#1F5C4A",
+   "title": "Château de Matsumoto & retour à Tokyo",
+   "subtitle": "Gorges de la Route 158, barrage de Nagawado, donjon noir de Matsumoto, sanzoku-yaki et train JR Azusa vers Shinjuku.",
+   "night": "Tokyo — Yamada Building (arrivée par la gare de Shinjuku)",
+   "transport": "Voiture ≈ 1h15 (Route 158) + JR Azusa Limited Express ≈ 2h30",
+   "steps": [
+    {
+     "time": "08h30",
+     "type": "Départ",
+     "title": "Départ de Hirayu Onsen",
+     "details": "Traversée des montagnes par la Route 158.",
+     "pois": [
+      "hirayu_onsen"
+     ],
+     "optional": false,
+     "meta": ""
+    },
+    {
+     "time": "09h15",
+     "type": "Arrêt panoramique",
+     "title": "Barrage de Nagawado",
+     "details": "Barrage-voûte et lac turquoise d'Azusa.",
+     "pois": [
+      "nagawado"
+     ],
+     "optional": false,
+     "meta": ""
+    },
+    {
+     "time": "10h30",
+     "type": "Visite",
+     "title": "Château de Matsumoto",
+     "details": "Le « Corbeau noir » : on se déchausse, escaliers très raides.",
+     "pois": [
+      "matsumoto_castle"
+     ],
+     "optional": false,
+     "meta": ""
+    },
+    {
+     "time": "12h30",
+     "type": "Déjeuner",
+     "title": "Sanzoku-yaki",
+     "details": "Filet de poulet mariné à l'ail, pané et croustillant.",
+     "pois": [],
+     "optional": false,
+     "meta": ""
+    },
+    {
+     "time": "14h00",
+     "type": "Voiture",
+     "title": "Restitution de la voiture — gare de Matsumoto",
+     "details": "Plein d'essence avant, garder le reçu.",
+     "pois": [
+      "matsumoto_stn"
+     ],
+     "optional": false,
+     "meta": ""
+    },
+    {
+     "time": "15h00",
+     "type": "Train JR",
+     "title": "JR Azusa → Shinjuku",
+     "details": "Limited Express direct (≈ 2h30).",
+     "pois": [],
+     "optional": false,
+     "meta": ""
+    },
+    {
+     "time": "17h30",
+     "type": "Arrivée",
+     "title": "Tokyo — Shinjuku, Yamada Building",
+     "details": "Installation pour la nuit.",
+     "pois": [
+      "shinjuku"
+     ],
+     "optional": false,
+     "meta": ""
+    }
+   ],
+   "notes": [
+    "Château : sac fourni pour les chaussures ; escaliers très raides, chaussettes confortables.",
+    "Faire le plein à l'entrée de Matsumoto et conserver le reçu."
+   ],
+   "approxTimes": true
+  }
+ ]
+}

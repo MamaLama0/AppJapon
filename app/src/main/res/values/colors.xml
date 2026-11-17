@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="shu">#B5332E</color>
+    <color name="shu_dark">#8E2420</color>
+    <color name="matsu">#1F5C4A</color>
+    <color name="sumi">#1E2328</color>
+    <color name="washi">#FAF7F2</color>
+    <color name="washi_line">#E6DFD3</color>
+    <color name="muted">#6B6F75</color>
+    <color name="done">#9AA0A6</color>
+    <color name="optional_bg">#FFF3C4</color>
+    <color name="optional_fg">#7A5B00</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="on_surface">#1E2328</color>
+    <color name="ic_bg">#B5332E</color>
+</resources>

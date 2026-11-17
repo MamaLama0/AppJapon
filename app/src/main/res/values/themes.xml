@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.AppJapon" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/shu</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorPrimaryContainer">#FFDAD5</item>
+        <item name="colorOnPrimaryContainer">#410001</item>
+        <item name="colorSecondary">@color/matsu</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+        <item name="colorSurface">@color/surface</item>
+        <item name="colorOnSurface">@color/on_surface</item>
+        <item name="android:colorBackground">@color/washi</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="bottomSheetDialogTheme">@style/ThemeOverlay.AppJapon.BottomSheet</item>
+    </style>
+
+    <style name="ThemeOverlay.AppJapon.BottomSheet" parent="ThemeOverlay.Material3.BottomSheetDialog">
+        <item name="colorSurface">@color/surface</item>
+    </style>
+
+    <style name="Text.Title" parent="TextAppearance.Material3.TitleLarge">
+        <item name="android:textColor">@color/sumi</item>
+        <item name="android:fontFamily">serif</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="Text.Kicker" parent="TextAppearance.Material3.LabelMedium">
+        <item name="android:textColor">@color/shu</item>
+        <item name="android:letterSpacing">0.08</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="Text.Body" parent="TextAppearance.Material3.BodyMedium">
+        <item name="android:textColor">@color/sumi</item>
+    </style>
+    <style name="Text.Muted" parent="TextAppearance.Material3.BodySmall">
+        <item name="android:textColor">@color/muted</item>
+    </style>
+</resources>

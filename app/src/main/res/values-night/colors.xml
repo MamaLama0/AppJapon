@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sumi">#ECE7E0</color>
+    <color name="washi">#1B1D20</color>
+    <color name="washi_line">#33363B</color>
+    <color name="muted">#A3A7AD</color>
+    <color name="optional_bg">#4A3C0A</color>
+    <color name="optional_fg">#FFE08A</color>
+    <color name="surface">#232529</color>
+    <color name="on_surface">#ECE7E0</color>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Carnet Japon</string>
+    <string name="overview">Vue d\'ensemble</string>
+    <string name="my_location">Ma position</string>
+    <string name="nearby">Autour de moi</string>
+    <string name="follow">Suivre ma position</string>
+    <string name="import_track">Importer mon tracé (GPX / KML)</string>
+    <string name="remove_track">Supprimer le tracé importé</string>
+    <string name="reset_day">Réinitialiser la progression du jour</string>
+    <string name="keep_screen">Garder l\'écran allumé</string>
+    <string name="auto_check">Cocher automatiquement à l\'arrivée</string>
+    <string name="location_needed">La localisation est nécessaire pour vous situer sur la carte.</string>
+    <string name="osm_credit">© contributeurs OpenStreetMap</string>
+</resources>

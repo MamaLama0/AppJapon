@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.AppJapon" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#FFB4AA</item>
+        <item name="colorOnPrimary">#690003</item>
+        <item name="colorPrimaryContainer">@color/shu_dark</item>
+        <item name="colorOnPrimaryContainer">#FFDAD5</item>
+        <item name="colorSecondary">#8FD1B8</item>
+        <item name="colorOnSecondary">#003828</item>
+        <item name="colorSurface">@color/surface</item>
+        <item name="colorOnSurface">@color/on_surface</item>
+        <item name="android:colorBackground">@color/washi</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="bottomSheetDialogTheme">@style/ThemeOverlay.AppJapon.BottomSheet</item>
+    </style>
+</resources>
