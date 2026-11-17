@@ -1,9 +1,9 @@
 name: Build & Release APK
 
+# Chaque push construit l'APK. Sur la branche principale, si la version (versionName)
+# n'a pas encore de release, la release GitHub vX.Y est créée avec l'APK.
 on:
   push:
-    branches: ["**"]
-    tags: ["v*"]
   workflow_dispatch:
 
 permissions:
@@ -21,27 +21,24 @@ jobs:
       - uses: android-actions/setup-android@v3
       - name: Tests & APK
         run: ./gradlew testDebugUnitTest assembleRelease
+      - name: Version
+        id: v
+        run: echo "tag=v$(grep -oP 'versionName = "\K[^"]+' app/build.gradle.kts)" >> "$GITHUB_OUTPUT"
       - name: Rename APK
-        run: cp app/build/outputs/apk/release/app-release.apk "CarnetJapon-${GITHUB_REF_NAME//\//-}.apk"
+        run: cp app/build/outputs/apk/release/app-release.apk "CarnetJapon-${{ steps.v.outputs.tag }}.apk"
       - uses: actions/upload-artifact@v4
         with:
           name: carnet-japon-apk
           path: CarnetJapon-*.apk
-      - name: GitHub Release
-        if: startsWith(github.ref, 'refs/tags/v')
-        uses: softprops/action-gh-release@v2
-        with:
-          files: CarnetJapon-*.apk
-          name: Carnet Japon ${{ github.ref_name }}
-          body: |
-            Carnet de route Japon — Kyoto historique & Alpes japonaises (19 → 27 avril).
-
-            **Installation** : téléchargez `CarnetJapon-${{ github.ref_name }}.apk` sur le téléphone Android,
-            ouvrez-le et autorisez l'installation depuis cette source.
-
-            **Nouveautés v2.0**
-            - Carte vectorielle MapLibre + OpenFreeMap (sans clé), noms en français/latin avec le japonais.
-            - Cartes hors-ligne (~120 Mo) : menu ⋮ → Cartes hors-ligne, à faire en Wi-Fi avant le départ.
-            - Suivi en temps réel des 9 journées, coche automatique à l'arrivée, fiches historiques de 68 lieux.
-            - « Y aller » ouvre l'appli de navigation de votre choix (Vela Maps, Organic Maps, Google Maps…).
-            - Import de vos tracés GPX / KML / KMZ par jour.
+      - name: GitHub Release (nouvelle version uniquement)
+        if: github.ref_name == github.event.repository.default_branch
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TAG: ${{ steps.v.outputs.tag }}
+        run: |
+          if gh release view "$TAG" >/dev/null 2>&1; then
+            echo "La release $TAG existe déjà : rien à publier."
+          else
+            gh release create "$TAG" "CarnetJapon-$TAG.apk" --target "$GITHUB_SHA" \
+              --title "Carnet Japon $TAG" --notes-file .github/release-notes.md
+          fi
