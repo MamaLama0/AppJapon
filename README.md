@@ -3,10 +3,13 @@
 App Android (Kotlin) pour suivre le carnet de route **Kyoto historique & Alpes japonaises** (19 → 27 avril 2027).
 
 ## Fonctions
-- **Grande carte du Japon** (OpenStreetMap, sans clé API). Les lieux apparaissent en zoomant :
+- **Grande carte du Japon** vectorielle (MapLibre + tuiles OpenFreeMap / données OpenStreetMap, **sans clé API**),
+  noms en français ou en lettres latines avec le japonais dessous. Les lieux apparaissent en zoomant :
   grandes zones (Kyoto / Alpes / Tokyo) → régions → lieux principaux → lieux secondaires.
+- **Cartes hors-ligne** (menu ⋮ → Cartes hors-ligne) : ≈ 120 Mo couvrant rues et sentiers autour de chaque étape,
+  routes de chaque journée et vue d'ensemble. À télécharger en Wi-Fi quelques jours avant le départ.
 - **68 lieux** avec fiche détaillée : histoire, nom japonais, conseils pratiques, étapes du carnet qui y passent,
-  bouton « Y aller » (Google Maps).
+  bouton « Y aller » (au choix : Vela Maps, Organic Maps, Google Maps…).
 - **Sélection du jour** (J1 → J9) : tracé du jour, marqueurs numérotés, liste des étapes avec horaires,
   billets, étapes facultatives (surlignées dans la synthèse).
 - **Localisation en temps réel** : position sur la carte, mode « suivre », partie du tracé déjà parcourue en gris,
@@ -21,6 +24,7 @@ Les jours 2, 3 et 4 intègrent la *Synthèse Kyoto* (Shōren-in, Hirano-jinja, d
 ## Données
 Tout le contenu (lieux, histoires, journées) est dans `app/src/main/assets/trip.json`.
 Coordonnées issues d'OpenStreetMap/Nominatim ; les lieux marqués `"approx": true` sont à position approximative.
+Le style de carte (`app/src/main/assets/map_style.json`) est le style « Liberty » d'OpenFreeMap avec des étiquettes localisées.
 
 ## Construire
 ```

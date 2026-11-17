@@ -2,7 +2,7 @@ package com.appjapon.carnet.data
 
 import android.content.Context
 import android.net.Uri
-import org.osmdroid.util.GeoPoint
+import com.appjapon.carnet.map.GeoPoint
 import org.xmlpull.v1.XmlPullParser
 import org.xmlpull.v1.XmlPullParserFactory
 import java.io.ByteArrayInputStream

@@ -9,26 +9,31 @@ import com.appjapon.carnet.data.Category
 /** Génère les icônes de la carte (pastilles dessinées, sans ressources externes). */
 class MarkerFactory(private val context: Context) {
     private val density = context.resources.displayMetrics.density
-    private val cache = HashMap<String, Drawable>()
+    private val cache = HashMap<String, Bitmap>()
 
     private fun dp(v: Float) = v * density
 
     /** Pastille de catégorie : cercle coloré + idéogramme blanc. */
-    fun category(cat: Category, dimmed: Boolean = false): Drawable =
-        cache.getOrPut("cat_${cat.key}_$dimmed") {
+    fun categoryKey(cat: Category, dimmed: Boolean = false) = "cat_${cat.key}_$dimmed"
+    fun categoryBitmap(cat: Category, dimmed: Boolean = false): Bitmap =
+        cache.getOrPut(categoryKey(cat, dimmed)) {
             pin(cat.glyph, if (dimmed) blend(cat.color, Color.WHITE, 0.45f) else cat.color, size = 30f, pointer = true)
         }
+    fun category(cat: Category, dimmed: Boolean = false): Drawable = BitmapDrawable(context.resources, categoryBitmap(cat, dimmed))
 
     /** Marqueur numéroté d'une étape du jour. */
-    fun step(number: Int, color: Int, done: Boolean, optional: Boolean, current: Boolean): Drawable =
-        cache.getOrPut("step_${number}_${color}_${done}_${optional}_$current") {
+    fun stepKey(number: Int, color: Int, done: Boolean, optional: Boolean, current: Boolean) =
+        "step_${number}_${color}_${done}_${optional}_$current"
+    fun stepBitmap(number: Int, color: Int, done: Boolean, optional: Boolean, current: Boolean): Bitmap =
+        cache.getOrPut(stepKey(number, color, done, optional, current)) {
             val fill = if (done) Color.parseColor("#9AA0A6") else color
             pin(if (done) "✓" else number.toString(), fill, size = if (current) 38f else 32f, pointer = true,
                 ring = if (current) Color.parseColor("#FFC107") else Color.WHITE, dashed = optional && !done)
         }
 
     /** Étiquette de région (zoom éloigné). */
-    fun region(label: String, count: Int, color: Int): Drawable = cache.getOrPut("region_${label}_$count") {
+    fun regionKey(label: String) = "region_$label"
+    fun regionBitmap(label: String, count: Int, color: Int): Bitmap = cache.getOrPut(regionKey(label)) {
         val text = "$label · $count"
         val paint = Paint(Paint.ANTI_ALIAS_FLAG).apply {
             this.color = Color.WHITE; textSize = dp(13f); typeface = Typeface.create(Typeface.SERIF, Typeface.BOLD)
@@ -44,10 +49,10 @@ class MarkerFactory(private val context: Context) {
         c.drawRoundRect(r, h / 2f, h / 2f, border)
         val fm = paint.fontMetrics
         c.drawText(text, dp(12f), h / 2f - (fm.ascent + fm.descent) / 2, paint)
-        BitmapDrawable(context.resources, bmp)
+        bmp.also { it.density = context.resources.displayMetrics.densityDpi }
     }
 
-    private fun pin(text: String, fill: Int, size: Float, pointer: Boolean, ring: Int = Color.WHITE, dashed: Boolean = false): Drawable {
+    private fun pin(text: String, fill: Int, size: Float, pointer: Boolean, ring: Int = Color.WHITE, dashed: Boolean = false): Bitmap {
         val d = dp(size)
         val pointerH = if (pointer) dp(7f) else 0f
         val pad = dp(3f)
@@ -79,7 +84,8 @@ class MarkerFactory(private val context: Context) {
         }
         val fm = tp.fontMetrics
         c.drawText(text, cx, cy - (fm.ascent + fm.descent) / 2, tp)
-        return BitmapDrawable(context.resources, bmp)
+        bmp.density = context.resources.displayMetrics.densityDpi
+        return bmp
     }
 
     private fun blend(a: Int, b: Int, t: Float): Int = Color.rgb(
@@ -87,10 +93,4 @@ class MarkerFactory(private val context: Context) {
         (Color.green(a) * (1 - t) + Color.green(b) * t).toInt(),
         (Color.blue(a) * (1 - t) + Color.blue(b) * t).toInt(),
     )
-
-    /** Ancrage vertical (pointe du marqueur) pour les pastilles avec pointeur. */
-    fun pinAnchorV(size: Float): Float {
-        val d = dp(size); val pad = dp(3f); val pointerH = dp(7f)
-        return (d + pad * 2 + pointerH - dp(1f)) / (d + pad * 2 + pointerH)
-    }
 }

@@ -1,6 +1,5 @@
 package com.appjapon.carnet.map
 
-import org.osmdroid.util.GeoPoint
 import kotlin.math.*
 
 object Geo {

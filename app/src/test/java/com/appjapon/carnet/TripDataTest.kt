@@ -8,7 +8,7 @@ import org.junit.Assert.assertEquals
 import org.junit.Assert.assertTrue
 import org.junit.Test
 import org.junit.runner.RunWith
-import org.osmdroid.util.GeoPoint
+import com.appjapon.carnet.map.GeoPoint
 import org.robolectric.RobolectricTestRunner
 
 @RunWith(RobolectricTestRunner::class)

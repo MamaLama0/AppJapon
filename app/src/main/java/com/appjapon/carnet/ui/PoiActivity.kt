@@ -74,8 +74,10 @@ class PoiActivity : AppCompatActivity() {
 
         b.back.setOnClickListener { finish() }
         b.btnGo.setOnClickListener {
-            val uri = Uri.parse("https://www.google.com/maps/dir/?api=1&destination=${poi.lat},${poi.lon}")
-            startActivity(Intent(Intent.ACTION_VIEW, uri))
+            // geo: → l'utilisateur choisit son appli de navigation (Vela Maps, Organic Maps, Google Maps…)
+            val geo = Intent(Intent.ACTION_VIEW, Uri.parse("geo:${poi.lat},${poi.lon}?q=${poi.lat},${poi.lon}(${Uri.encode(poi.name)})"))
+            val web = Intent(Intent.ACTION_VIEW, Uri.parse("https://www.google.com/maps/dir/?api=1&destination=${poi.lat},${poi.lon}"))
+            try { startActivity(Intent.createChooser(geo, "Y aller avec…")) } catch (e: Exception) { startActivity(web) }
         }
         b.btnMap.setOnClickListener {
             setResult(RESULT_OK, Intent().putExtra(RESULT_SHOW_POI, poi.id))
